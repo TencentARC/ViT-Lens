@@ -18,6 +18,7 @@ git clone https://github.com/TencentARC/ViT-Lens.git
 cd ViT-Lens
 
 conda create -n vit-lens python=3.8
+conda activate vit-lens
 
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 conda install -c dglteam/label/cu113 dgl
@@ -140,7 +141,7 @@ torchrun --nproc_per_node=8 ./src/inference.py \
 
 
 ## 🎓 Citation
-If you find our work helps, please cite our project.
+If you find our work helps, please consider citing our project.
 
 
 ## ✉️ Contact
@@ -148,5 +149,4 @@ Questions and discussions are welcome via leiwx52@gmail.com or open an issue.
 
 
 ## 🙏 Acknowledgement
-
 This codebase is based on [open_clip](https://github.com/mlfoundations/open_clip), [ULIP](https://github.com/salesforce/ULIP), [OpenShape](https://github.com/Colin97/OpenShape_code) and [LAVIS](https://github.com/salesforce/LAVIS). Thanks the authors for their awesome contributions!
