@@ -1,6 +1,6 @@
 # <img src="assets/logo.png" alt="logo" style="zoom:4%;" /> ViT-Lens
 <p align="center">
-    <img src="assets/pipeline.png" alt="vit-lens" style="zoom:45%;" />
+    <img src="assets/pipeline.png" alt="vit-lens" width="600" />
 </p>
 
 ### 📢 News
@@ -125,16 +125,16 @@ torchrun --nproc_per_node=8 ./src/inference.py \
 
 
 ## 👀 Visualization of Demo
-<details open><summary>[ Example: Plug 3D lens to LLM ]</summary><img src="./assets/e_3d_plant.png" alt="plant" style="width: 80%; height: auto;">
+<details open><summary>[ Example: Plug 3D lens to LLM ]</summary><img src="./assets/e_3d_plant.png" alt="plant" style="width: 60%; height: auto;">
 </details>
 
-<details close><summary>[ Example: Plug 3D lens to LLM ]</summary><img src="./assets/e_3d_piano.png" alt="piano" style="width: 80%; height: auto;">
+<details close><summary>[ Example: Plug 3D lens to LLM ]</summary><img src="./assets/e_3d_piano.png" alt="piano" style="width: 60%; height: auto;">
 </details>
 
-<details open><summary>[ Example: Multimodal inputs to LLM ]</summary><img src="./assets/e_mm2.png" alt="mm2" style="width: 80%; height: auto;">
+<details open><summary>[ Example: Multimodal inputs to LLM ]</summary><img src="./assets/e_mm2.png" alt="mm2" style="width: 60%; height: auto;">
 </details>
 
-<details close><summary>[ Example: Multimodal inputs to LLM ]</summary><img src="./assets/e_mm3.png" alt="mm3" style="width: 80%; height: auto;">
+<details close><summary>[ Example: Multimodal inputs to LLM ]</summary><img src="./assets/e_mm3.png" alt="mm3" style="width: 60%; height: auto;">
 </details>
 
 
