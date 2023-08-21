@@ -1,0 +1,4 @@
+NAME: ShapeNet
+DATA_PATH: /path/to/shapenet-55
+PC_PATH: /path/to/shapenet-55/shapenet_pc
+IMAGE_PATH: /path/to/shapenet-55/rendered_images

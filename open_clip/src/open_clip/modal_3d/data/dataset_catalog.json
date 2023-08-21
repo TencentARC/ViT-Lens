@@ -1,0 +1,25 @@
+{
+    "shapenet": {
+        "config": "./ShapeNet-55.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "modelnet40": {
+        "config": "./ModelNet40.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "test"
+    },
+    "objverse": {
+        "config": "./Objverse.yaml",
+        "train": "train",
+        "test": "test",
+        "usage": "train"
+    },
+    "scanobjectnn": {
+        "config": "./ScanObjectNN.yaml",
+        "test": "test",
+        "usage": "test"
+    }
+}
