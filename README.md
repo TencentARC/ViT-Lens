@@ -1,4 +1,5 @@
 # <img src="assets/logo.png" alt="logo" style="zoom:4%;" /> ViT-Lens
+*TL;DR*: We present ViT-Lens, an approach for advancing omni-modal representation learning by leveraging a pretrained-ViT to comprehend diverse modalities with modality lens.
 <p align="center">
     <img src="assets/pipeline.png" alt="vit-lens" width="600" />
 </p>
