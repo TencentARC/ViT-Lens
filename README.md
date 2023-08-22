@@ -1,4 +1,6 @@
 # <img src="assets/logo.png" alt="logo" style="zoom:4%;" /> ViT-Lens
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10185)
+
 *TL;DR*: We present ViT-Lens, an approach for advancing omni-modal representation learning by leveraging a pretrained-ViT to comprehend diverse modalities with modality lens.
 <p align="center">
     <img src="assets/pipeline.png" alt="vit-lens" width="600" />
@@ -141,7 +143,17 @@ torchrun --nproc_per_node=8 ./src/inference.py \
 
 
 ## 🎓 Citation
-If you find our work helps, please consider citing our project.
+If you find our work helps, please consider citing:
+```bib
+@misc{lei2023vitlens,
+      title={ViT-Lens: Towards Omni-modal Representations}, 
+      author={Weixian Lei and Yixiao Ge and Jianfeng Zhang and Dylan Sun and Kun Yi and Ying Shan and Mike Zheng Shou},
+      year={2023},
+      eprint={2308.10185},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 ## ✉️ Contact
