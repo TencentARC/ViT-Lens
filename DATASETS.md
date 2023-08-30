@@ -8,7 +8,7 @@
 ### 3D Zero-shot Datasets
 - ModelNet40: we prepare two versions following [ULIP](https://github.com/salesforce/ULIP) and [OpenShape](https://github.com/Colin97/OpenShape_code).
 - ScanObjectNN: follow [OpenShape](https://github.com/Colin97/OpenShape_code) to download and prepare the data.
--Objaverse LVIS: follow [OpenShape](https://github.com/Colin97/OpenShape_code) to download and prepare the data.
+- Objaverse LVIS: follow [OpenShape](https://github.com/Colin97/OpenShape_code) to download and prepare the data.
 
 ### ⏰ Change Hard-coded Paths
 Do note that you may change the hard-coded paths in the following files. Will make it configurable in the future.
