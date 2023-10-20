@@ -1,4 +1,5 @@
-# <img src="assets/logo.png" alt="logo" style="zoom:4%;" /> ViT-Lens
+# ViT-Lens
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10185)
 
 *TL;DR*: We present ViT-Lens, an approach for advancing omni-modal representation learning by leveraging a pretrained-ViT to comprehend diverse modalities with modality lens.
