@@ -1,6 +1,8 @@
 # ViT-Lens
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.10185)
+[![arXiv](https://img.shields.io/badge/arXiv-2311.16081-b31b1b.svg)](https://arxiv.org/abs/2311.16081)
+[![arXiv](https://img.shields.io/badge/arXiv-2308.10185-b31b1b.svg)](https://arxiv.org/abs/2308.10185)
+[![Static Badge](https://img.shields.io/badge/Model-Huggingface-yellow)](https://huggingface.co/TencentARC/ViT-Lens/tree/main)
 
 *TL;DR*: We present ViT-Lens, an approach for advancing omni-modal representation learning by leveraging a pretrained-ViT to comprehend diverse modalities with modality Lens.
 <p align="center">
@@ -12,7 +14,8 @@
 
 ### 📢 News
 <!--  -->
-- [2023.08.22] We release the arXiv paper, inference codes and checkpoints for 3D.
+- [2023.11.28] We upgrade ViT-Lens, with added modalities and applications. Stay tuned for the release of code and models.[![arXiv](https://img.shields.io/badge/arXiv-v2-b31b1b.svg)](https://arxiv.org/abs/2311.16081)
+- [2023.08.22] We release the arXiv paper, inference codes and checkpoints for 3D. [![arXiv](https://img.shields.io/badge/arXiv-v1-b31b1b.svg)](https://arxiv.org/abs/2308.10185)
 
 ### 📝 Todo
 - [ ] Models for more modalities.
