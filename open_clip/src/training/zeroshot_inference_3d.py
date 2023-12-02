@@ -55,7 +55,7 @@ def natural_key(string_):
 
 
 def get_latest_checkpoint(path: str, remote: bool):
-    # as writen, this glob recurses, so can pick up checkpoints across multiple sub-folders
+    # as written, this glob recurses, so can pick up checkpoints across multiple sub-folders
     if remote:
         result = subprocess.run(["aws", "s3", "ls", path + "/"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         print(result)
