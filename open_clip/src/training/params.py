@@ -29,7 +29,7 @@ def parse_args(args):
         "--n_tower",
         type=int,
         default=2,
-        help="number of towers in the model arch, default to be 2 in the orginal CLIP model."
+        help="number of towers in the model arch, default to be 2 in the original CLIP model."
     )
     
     parser.add_argument(
