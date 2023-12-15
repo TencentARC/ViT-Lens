@@ -24,7 +24,7 @@ We are keeping updating models for ViT-Lens, please stay tuned!
 
 |                            Model                             |                       Training Data                       | Audioset (mAP) | VGGSound (Top1) | ESC50 (Top1) | Clotho (R@1/R@10) | AudioCaps (R@1/R@10) |
 | :----------------------------------------------------------: | :-------------------------------------------------------: | :------------: | :-------------: | :----------: | :---------------: | :------------------: |
-|                           vitlensB                           |            Audioset `train`, 5-sec clips (V+T)            |      26.3      |      29.9       |     72.9     |     7.5/29.5      |      13.5/54.1       |
+| [vitlensB](https://huggingface.co/TencentARC/ViT-Lens/blob/main/vitlensB_audio_dur5.pt) |            Audioset `train`, 5-sec clips (V+T)            |      26.3      |      29.9       |     72.9     |     7.5/29.5      |      13.5/54.1       |
 | [vitlensL](https://huggingface.co/TencentARC/ViT-Lens/blob/main/vitlensL_audio.pt) |            Audioset `train`, 5-sec clips (V+T)            |      26.7      |      31.7       |     75.9     |     8.1/31.2      |      14.4/54.9       |
 |                           vitlensL                           |            Audioset `train`, 2-sec clips (V+T)            |      29.0      |      32.5       |     75.1     |     7.9/31.6      |      14.8/53.3       |
 |                           vitlensL                           | Audioset `train` and VGGSound `train` , 5-sec clips (V+T) |      27.2      |      51.7       |     80.9     |     7.9/31.5      |      14.9/55.2       |
