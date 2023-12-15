@@ -1,0 +1,3 @@
+include src/vitlens/bpe_simple_vocab_16e6.txt.gz
+include src/vitlens/model_configs/*.json
+

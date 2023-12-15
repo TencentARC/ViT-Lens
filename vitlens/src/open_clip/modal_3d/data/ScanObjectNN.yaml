@@ -1,0 +1,3 @@
+NAME: ScanObjectNN
+DATA_PATH: ScanNNObject_h5_files
+PC_PATH: ScanNNObject_h5_files

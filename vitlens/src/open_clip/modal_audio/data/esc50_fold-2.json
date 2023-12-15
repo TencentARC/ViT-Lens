@@ -1,0 +1,3202 @@
+[
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-100648-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-100786-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-101676-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-A-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-B-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-C-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-D-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-E-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-F-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-102414-G-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-102435-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-102567-A-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-102567-B-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-102567-C-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-102567-D-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-102568-A-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-102581-A-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-102581-B-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-102852-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-103423-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-103424-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-103426-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-103427-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-103428-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-104105-A-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-104105-B-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-104168-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-104475-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-104476-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-104877-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-104952-A-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-104952-B-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-105270-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-106014-A-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-106015-A-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-106015-B-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-106019-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-106072-A-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-106073-A-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-106486-A-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-106487-A-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-106849-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-106881-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-107228-A-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-107228-B-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-107351-A-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-107351-B-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-108017-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-108760-A-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-108760-B-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-108761-A-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-108763-A-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-108766-A-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-108767-A-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-108767-B-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-108767-C-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-109231-A-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-109231-B-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 9,
+    "audio_path": "esc50/audio/2-109231-C-9.flac",
+    "text": "The sound of crow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 9
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-109316-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-109371-A-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-109371-B-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-109371-C-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-109371-D-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-109374-A-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-109505-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-109759-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-109759-B-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-110010-A-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-110011-A-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-110417-A-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-110417-B-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-110613-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-110614-A-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-110614-B-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-112213-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-112213-B-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-114254-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-114280-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-114587-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-114609-A-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-114609-B-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-116400-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-117116-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-117271-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-117330-A-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117615-A-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117615-B-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117615-C-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117615-D-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117615-E-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117616-A-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-117617-A-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-117625-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-117795-A-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 3,
+    "audio_path": "esc50/audio/2-117795-B-3.flac",
+    "text": "The sound of cow",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 3
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-118072-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-118104-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-118459-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-118459-B-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-118624-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-118625-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-118817-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-118964-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-119102-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-119139-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-119161-A-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-119161-B-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-119161-C-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-119748-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-120218-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-120218-B-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-120333-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-120586-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-120587-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-121909-A-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-121978-A-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-122066-A-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-122066-B-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-122067-A-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-122067-B-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-122104-A-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 0,
+    "audio_path": "esc50/audio/2-122104-B-0.flac",
+    "text": "The sound of dog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 0
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-122616-A-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-122763-A-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-122763-B-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-122820-A-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-122820-B-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-123712-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-123896-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-124564-A-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-124662-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-125520-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-125821-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-125875-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-125966-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 17,
+    "audio_path": "esc50/audio/2-126433-A-17.flac",
+    "text": "The sound of pouring water",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 17
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-126756-A-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-127108-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-127109-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-128465-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-128465-B-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-128631-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-130245-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-130978-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-130979-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-131943-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-132157-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-132157-B-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-133863-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-133889-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-134049-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-134700-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-134915-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-135649-A-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-135649-B-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-135649-C-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-135728-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-135860-A-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-137162-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-138257-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-138465-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-139748-A-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-139748-B-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-139749-A-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-140147-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 30,
+    "audio_path": "esc50/audio/2-140841-A-30.flac",
+    "text": "The sound of door wood knock",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 30
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-141563-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-141584-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-141681-A-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-141681-B-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-141682-A-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 36,
+    "audio_path": "esc50/audio/2-141682-B-36.flac",
+    "text": "The sound of vacuum cleaner",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 36
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-144031-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-144137-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-146877-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-146877-B-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-151079-A-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-152895-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-152964-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-153388-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 31,
+    "audio_path": "esc50/audio/2-154688-A-31.flac",
+    "text": "The sound of mouse click",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 31
+  },
+  {
+    "uniq_id": 11,
+    "audio_path": "esc50/audio/2-155801-A-11.flac",
+    "text": "The sound of sea waves",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 11
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-157488-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-158746-A-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-158746-B-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-158746-C-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-158746-D-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-160128-A-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-160888-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 48,
+    "audio_path": "esc50/audio/2-165801-A-48.flac",
+    "text": "The sound of fireworks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 48
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-166644-A-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-166644-B-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-166644-C-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-173559-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-173607-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-173618-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-182508-A-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-182508-B-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-184077-A-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-18766-A-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-18766-B-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-188822-A-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-188822-B-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-188822-C-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-188822-D-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 8,
+    "audio_path": "esc50/audio/2-196688-A-8.flac",
+    "text": "The sound of sheep",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 8
+  },
+  {
+    "uniq_id": 16,
+    "audio_path": "esc50/audio/2-205966-A-16.flac",
+    "text": "The sound of wind",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 16
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209471-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209472-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209473-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209474-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209475-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209476-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209477-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 25,
+    "audio_path": "esc50/audio/2-209478-A-25.flac",
+    "text": "The sound of footsteps",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 25
+  },
+  {
+    "uniq_id": 39,
+    "audio_path": "esc50/audio/2-250710-A-39.flac",
+    "text": "The sound of glass breaking",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 39
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-25292-A-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-25293-A-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 45,
+    "audio_path": "esc50/audio/2-262579-A-45.flac",
+    "text": "The sound of train",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 45
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-28314-A-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-28314-B-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-30322-A-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-30322-B-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-32515-A-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-32515-B-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-32515-C-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-32515-D-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-32834-A-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-37806-A-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-37806-B-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-37806-C-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 40,
+    "audio_path": "esc50/audio/2-37806-D-40.flac",
+    "text": "The sound of helicopter",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 40
+  },
+  {
+    "uniq_id": 2,
+    "audio_path": "esc50/audio/2-37870-A-2.flac",
+    "text": "The sound of pig",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 2
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-39441-A-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-39443-A-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-39443-B-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-39945-A-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-39945-B-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 19,
+    "audio_path": "esc50/audio/2-39945-C-19.flac",
+    "text": "The sound of thunderstorm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 19
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-42101-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-43802-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-43806-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-50665-A-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-50666-A-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-50667-A-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-50667-B-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-50668-A-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-50668-B-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-50774-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-51173-A-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-51630-A-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-51630-B-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-52001-A-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-52001-B-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-52085-A-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-52085-B-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 4,
+    "audio_path": "esc50/audio/2-52789-A-4.flac",
+    "text": "The sound of frog",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 4
+  },
+  {
+    "uniq_id": 43,
+    "audio_path": "esc50/audio/2-54086-A-43.flac",
+    "text": "The sound of car horn",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 43
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-54961-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-54962-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-56926-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-57191-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-57733-A-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 35,
+    "audio_path": "esc50/audio/2-59241-A-35.flac",
+    "text": "The sound of washing machine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 35
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-59321-A-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-59565-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-59566-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-60180-A-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-60180-B-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-60791-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-60794-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-60795-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-60900-A-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-61311-A-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-61618-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-62226-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-64332-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-64962-A-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-64963-A-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-65484-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 12,
+    "audio_path": "esc50/audio/2-65747-A-12.flac",
+    "text": "The sound of crackling fire",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 12
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-65750-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-66205-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-66637-A-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-66637-B-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-67422-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-68391-A-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-68391-B-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-68595-A-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 15,
+    "audio_path": "esc50/audio/2-68595-B-15.flac",
+    "text": "The sound of water drops",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 15
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-69131-A-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-69131-B-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-70052-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-70052-B-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-70280-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-70344-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-70366-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-70367-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-70936-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-70938-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-70939-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-71162-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-72268-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-72547-A-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-72547-B-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-72547-C-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 14,
+    "audio_path": "esc50/audio/2-72547-D-14.flac",
+    "text": "The sound of chirping birds",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 14
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-72677-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 42,
+    "audio_path": "esc50/audio/2-72688-A-42.flac",
+    "text": "The sound of siren",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 42
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-72970-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-73027-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-7321-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-73260-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-73544-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-74361-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-74977-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-75726-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-76408-A-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-76408-B-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-76408-C-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 22,
+    "audio_path": "esc50/audio/2-76408-D-22.flac",
+    "text": "The sound of clapping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 22
+  },
+  {
+    "uniq_id": 6,
+    "audio_path": "esc50/audio/2-76868-A-6.flac",
+    "text": "The sound of hen",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 6
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-77346-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-77347-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-77945-A-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 41,
+    "audio_path": "esc50/audio/2-77945-B-41.flac",
+    "text": "The sound of chainsaw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 41
+  },
+  {
+    "uniq_id": 46,
+    "audio_path": "esc50/audio/2-78381-A-46.flac",
+    "text": "The sound of church bells",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 46
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-78562-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-78562-B-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 44,
+    "audio_path": "esc50/audio/2-78651-A-44.flac",
+    "text": "The sound of engine",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 44
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-78781-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-78799-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-79769-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 26,
+    "audio_path": "esc50/audio/2-79775-A-26.flac",
+    "text": "The sound of laughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 26
+  },
+  {
+    "uniq_id": 28,
+    "audio_path": "esc50/audio/2-80313-A-28.flac",
+    "text": "The sound of snoring",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 28
+  },
+  {
+    "uniq_id": 20,
+    "audio_path": "esc50/audio/2-80482-A-20.flac",
+    "text": "The sound of crying baby",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 20
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-80844-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-81112-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-81190-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-81270-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-81731-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-81970-A-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-81970-B-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-81970-C-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-82071-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-82077-A-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-82274-A-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-82274-B-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-82367-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-82455-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-82538-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-83270-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-83536-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-83667-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-83688-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-83934-A-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 5,
+    "audio_path": "esc50/audio/2-83934-B-5.flac",
+    "text": "The sound of cat",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 5
+  },
+  {
+    "uniq_id": 49,
+    "audio_path": "esc50/audio/2-84693-A-49.flac",
+    "text": "The sound of hand saw",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 49
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-84943-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-84965-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-85139-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-85292-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-85434-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-85471-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 18,
+    "audio_path": "esc50/audio/2-85945-A-18.flac",
+    "text": "The sound of toilet flush",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 18
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-86160-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 34,
+    "audio_path": "esc50/audio/2-87282-A-34.flac",
+    "text": "The sound of can opening",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 34
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-87412-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-87780-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 10,
+    "audio_path": "esc50/audio/2-87781-A-10.flac",
+    "text": "The sound of rain",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 10
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-87794-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-87795-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-87799-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 38,
+    "audio_path": "esc50/audio/2-88724-A-38.flac",
+    "text": "The sound of clock tick",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 38
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-89516-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-91912-A-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 33,
+    "audio_path": "esc50/audio/2-91912-B-33.flac",
+    "text": "The sound of door wood creaks",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 33
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-92627-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-92978-A-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 21,
+    "audio_path": "esc50/audio/2-93030-A-21.flac",
+    "text": "The sound of sneezing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 21
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-94230-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 29,
+    "audio_path": "esc50/audio/2-94807-A-29.flac",
+    "text": "The sound of drinking sipping",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 29
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-95035-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-95258-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-95258-B-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-95567-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 13,
+    "audio_path": "esc50/audio/2-96033-A-13.flac",
+    "text": "The sound of crickets",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 13
+  },
+  {
+    "uniq_id": 37,
+    "audio_path": "esc50/audio/2-96063-A-37.flac",
+    "text": "The sound of clock alarm",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 37
+  },
+  {
+    "uniq_id": 1,
+    "audio_path": "esc50/audio/2-96460-A-1.flac",
+    "text": "The sound of rooster",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 1
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-96654-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 27,
+    "audio_path": "esc50/audio/2-96904-A-27.flac",
+    "text": "The sound of brushing teeth",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 27
+  },
+  {
+    "uniq_id": 23,
+    "audio_path": "esc50/audio/2-98392-A-23.flac",
+    "text": "The sound of breathing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 23
+  },
+  {
+    "uniq_id": 24,
+    "audio_path": "esc50/audio/2-98676-A-24.flac",
+    "text": "The sound of coughing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 24
+  },
+  {
+    "uniq_id": 47,
+    "audio_path": "esc50/audio/2-98866-A-47.flac",
+    "text": "The sound of airplane",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 47
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-99795-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 32,
+    "audio_path": "esc50/audio/2-99796-A-32.flac",
+    "text": "The sound of keyboard typing",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 32
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-99955-A-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-99955-B-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  },
+  {
+    "uniq_id": 7,
+    "audio_path": "esc50/audio/2-99955-C-7.flac",
+    "text": "The sound of insects",
+    "duration": 5.0,
+    "dataset_name": "esc50",
+    "class_label": 7
+  }
+]

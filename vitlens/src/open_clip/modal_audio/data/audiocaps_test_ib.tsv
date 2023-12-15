@@ -1,0 +1,814 @@
+uniq_id	audio	text	duration
+0	audiocaps/audio/test/0.flac	Constant rattling noise and sharp vibrations	10.0
+1	audiocaps/audio/test/1.flac	A rocket flies by followed by a loud explosion and fire crackling as a truck engine runs idle	7.384
+2	audiocaps/audio/test/2.flac	Humming and vibrating with a man and children speaking and laughing	9.9999375
+3	audiocaps/audio/test/3.flac	A train running on a railroad track followed by a vehicle door closing and a man talking in the distance while a train horn honks and railroad crossing warning signals ring	10.0
+4	audiocaps/audio/test/4.flac	Food is frying, and a woman talks	10.0
+5	audiocaps/audio/test/5.flac	A man speaks as birds chirp and dogs bark	10.0
+6	audiocaps/audio/test/6.flac	A large truck driving by as an emergency siren wails and truck horn honks	10.0
+7	audiocaps/audio/test/7.flac	A child yelling as a young boy talks during several slaps on a hard surface	10.0
+8	audiocaps/audio/test/8.flac	An engine rumbles loudly, then an air horn honk three times	10.0
+9	audiocaps/audio/test/9.flac	A person snoring with another man speaking	10.0
+10	audiocaps/audio/test/10.flac	Thunder and a gentle rain	10.0
+11	audiocaps/audio/test/11.flac	A woman talks and a baby whispers	10.0
+12	audiocaps/audio/test/12.flac	A man talking as a stream of water trickles in the background	10.0
+13	audiocaps/audio/test/13.flac	A person briefly talks followed quickly by toilet flushing and another voice from another person	10.0
+14	audiocaps/audio/test/14.flac	A woman singing then choking followed by birds chirping	9.0335
+15	audiocaps/audio/test/15.flac	Machinery banging and hissing	10.0
+16	audiocaps/audio/test/16.flac	A person talking which later imitates a couple of meow sounds	10.0
+17	audiocaps/audio/test/17.flac	Rain is falling continuously	10.0
+18	audiocaps/audio/test/18.flac	An infant crying followed by a man laughing	9.012625
+19	audiocaps/audio/test/19.flac	A man talking as a door slams shut followed by a door creaking	10.0
+22	audiocaps/audio/test/22.flac	Vehicles passing by slowly together with distant murmuring	10.0
+23	audiocaps/audio/test/23.flac	Water is trickling, and a man talks	10.0
+24	audiocaps/audio/test/24.flac	Scraping and speech followed by people laughing	10.0
+25	audiocaps/audio/test/25.flac	Birds cackling and young peoples voices	10.0
+26	audiocaps/audio/test/26.flac	Birds are squawking, and ducks are quacking	10.0
+27	audiocaps/audio/test/27.flac	Repeated gunfire and screaming in the background	10.0
+28	audiocaps/audio/test/28.flac	An aircraft engine is taking off	10.0
+29	audiocaps/audio/test/29.flac	Water running with a main is speaking	10.0
+30	audiocaps/audio/test/30.flac	A female speaking with some rustling followed by another female speaking	10.0
+31	audiocaps/audio/test/31.flac	Males speaking and then a clock ticks twice	10.0
+32	audiocaps/audio/test/32.flac	An engine revving and then tires squealing	10.0
+33	audiocaps/audio/test/33.flac	A woman speaking followed by a porcelain plate clanking as food and oil sizzles	10.0
+34	audiocaps/audio/test/34.flac	An engine hums as it idles	9.5899375
+35	audiocaps/audio/test/35.flac	Blowing of a horn as a train passes	10.0
+36	audiocaps/audio/test/36.flac	Short spray followed by louder longer spray	9.90725
+37	audiocaps/audio/test/37.flac	A motor is revving and changing gears	10.0
+40	audiocaps/audio/test/40.flac	Ocean waves crashing in the distance as young girl talks followed by a young man talking while a group of children laughs in the background and wind blows into a microphone	10.0
+42	audiocaps/audio/test/42.flac	A metal clank followed by motor vibrating and rumbling	10.001
+43	audiocaps/audio/test/43.flac	Music and a man speaking followed by bleeps and someone singing	10.0
+44	audiocaps/audio/test/44.flac	Motorboat engine screams as it accelerates	10.000625
+45	audiocaps/audio/test/45.flac	A man speaking followed by another man speaking with some rustling	10.0
+47	audiocaps/audio/test/47.flac	Many insects are buzzing and rustling is occurring, while an adult male speaks	10.0
+48	audiocaps/audio/test/48.flac	People speaking with loud bangs followed by a slow motion rumble	10.0
+49	audiocaps/audio/test/49.flac	A couple of men speaking as metal clanks and a power tool operates	10.0
+51	audiocaps/audio/test/51.flac	An adult male is speaking in a quiet environment	10.0
+53	audiocaps/audio/test/53.flac	A vehicle engine revving as a crowd of people talk	10.0
+54	audiocaps/audio/test/54.flac	Some rustling followed by a quick powerful hiss	10.0
+55	audiocaps/audio/test/55.flac	Several ducks quack and chirp as men speak and wind blows	10.0
+56	audiocaps/audio/test/56.flac	A large engine passes as people speak followed by a siren	9.268625
+57	audiocaps/audio/test/57.flac	A sewing machine operating as a machine motor hisses loudly in the background	10.0
+58	audiocaps/audio/test/58.flac	Digital beeps repeating then a person speaks	10.0
+59	audiocaps/audio/test/59.flac	A man and woman laughing followed by a man shouting then a woman laughing as a child laughs	10.0
+60	audiocaps/audio/test/60.flac	Crumpling paper noise with female speech	10.000625
+61	audiocaps/audio/test/61.flac	A bell is ringing loudly and quickly	3.274
+62	audiocaps/audio/test/62.flac	Several birds chirp with some hissing	10.0
+63	audiocaps/audio/test/63.flac	A man speaking as a crowd of people laugh and applaud	10.0
+64	audiocaps/audio/test/64.flac	A small motor buzzing followed by a man speaking as a metal door closes	10.0
+66	audiocaps/audio/test/66.flac	Electronic beeping as a man talks and water pouring in the background	10.0
+68	audiocaps/audio/test/68.flac	A heavy rain dies down and begins again	10.000625
+70	audiocaps/audio/test/70.flac	A man speaking over an intercom as a helicopter engine runs followed by several gunshots firing	10.0
+71	audiocaps/audio/test/71.flac	A man talking followed by a goat baaing then a metal gate sliding while ducks quack and wind blows into a microphone	10.0006875
+72	audiocaps/audio/test/72.flac	Motorcycle engine running	9.99925
+73	audiocaps/audio/test/73.flac	A vehicle door opening as a crow caws and birds chirp while vehicles drive by in the background	10.0006875
+74	audiocaps/audio/test/74.flac	An engine running and wind with various speech in the background	10.0006875
+75	audiocaps/audio/test/75.flac	A drone whirring followed by a crashing sound	10.0
+76	audiocaps/audio/test/76.flac	A man talking as a helicopter flies by	10.0
+77	audiocaps/audio/test/77.flac	A group of people laughing followed by farting	10.0
+78	audiocaps/audio/test/78.flac	Screaming, wind and an engine running, and laughing	10.0
+80	audiocaps/audio/test/80.flac	A series of computer mouse clicks followed by a kid crying	10.0
+81	audiocaps/audio/test/81.flac	A series of electronic beeps followed by static	10.0
+82	audiocaps/audio/test/82.flac	Loud snoring repeating	10.0
+83	audiocaps/audio/test/83.flac	Water pouring down a drain with a series of metal clangs followed by a metal chain rattling	10.0
+84	audiocaps/audio/test/84.flac	A man talking as water splashes	10.0000625
+85	audiocaps/audio/test/85.flac	Wind blowing and water splashing	10.0
+86	audiocaps/audio/test/86.flac	A group of people laughing followed by a man talking	10.0
+87	audiocaps/audio/test/87.flac	A person snoring followed by a man talking	10.0
+88	audiocaps/audio/test/88.flac	Girl speaks and crunches plastic wrapping	10.000625
+90	audiocaps/audio/test/90.flac	A series of compressed air spraying as a motor hums in the background	10.0
+91	audiocaps/audio/test/91.flac	Low ticktock sounds followed by objects moving	10.0
+92	audiocaps/audio/test/92.flac	Gunshots fire, an adult male speaks, footfalls and clicking occur as other adult males speak, gunshots fire again, an adult male speaks, and a dog growls	10.0
+94	audiocaps/audio/test/94.flac	Duck quacking repeatedly	10.0
+95	audiocaps/audio/test/95.flac	Tribal drums playing as footsteps shuffle on wet dirt as frogs and crickets chirp in the background	10.0
+96	audiocaps/audio/test/96.flac	A rooster clucking followed by a dog whimpering then a man talking and a dog barking	8.9935
+97	audiocaps/audio/test/97.flac	A power tool drill operating continuously	10.0
+98	audiocaps/audio/test/98.flac	A man speaking as birds are chirping	10.0
+99	audiocaps/audio/test/99.flac	Pretend to scream and crying is occurring, and an adult male begins to speak	9.8735
+100	audiocaps/audio/test/100.flac	Metal scrapping against a wooden surface followed by sand scrapping then more metal scrapping against wood	10.0
+101	audiocaps/audio/test/101.flac	A cat meows and a woman speaks	9.9691875
+102	audiocaps/audio/test/102.flac	Whistling as a man speaks	10.0
+103	audiocaps/audio/test/103.flac	A man is speaking as paper is crumpling	10.0
+104	audiocaps/audio/test/104.flac	A vehicle engine revving then powering down	9.7335
+105	audiocaps/audio/test/105.flac	A man is speaking followed by a child speaking and then laughter	9.9996875
+106	audiocaps/audio/test/106.flac	Some claps followed by a man speaking then glass breaking and people laughing	9.4935
+107	audiocaps/audio/test/107.flac	A man speaking as a stream of water splashes and flows while music faintly plays in the distance	10.0
+108	audiocaps/audio/test/108.flac	Continuous snoring of a person	10.0
+110	audiocaps/audio/test/110.flac	A man speaks while typing occurs	10.0
+111	audiocaps/audio/test/111.flac	A woman speaks as she fries food	10.0
+112	audiocaps/audio/test/112.flac	Spray and a high pitch tone	9.9990625
+113	audiocaps/audio/test/113.flac	A woman speaks and continues to do so as a dog starts barking	10.0000625
+116	audiocaps/audio/test/116.flac	An engine running and helicopter propellers spinning	10.00025
+118	audiocaps/audio/test/118.flac	People are talking along with knock sounds	9.0935
+120	audiocaps/audio/test/120.flac	A helicopter flying followed by wind heavily blowing into a microphone	10.000875
+121	audiocaps/audio/test/121.flac	Humming from an engine followed by loud honks of a horn	9.5358125
+123	audiocaps/audio/test/123.flac	A man speaks as water flows from a faucet in quick bursts	10.0
+126	audiocaps/audio/test/126.flac	Music is playing with machine gun sounds	10.0
+127	audiocaps/audio/test/127.flac	The wind is blowing, an adult male speaks via an electronic device, and a click occurs	10.0
+128	audiocaps/audio/test/128.flac	Nature sounds with a frog croaking	10.0
+130	audiocaps/audio/test/130.flac	A man talks over a clicking sound and a car engine switches gears and speeds up	10.0
+131	audiocaps/audio/test/131.flac	A girl burping then laughing followed by a group of girls laughing and talking	10.0
+133	audiocaps/audio/test/133.flac	Traffic hums and beeps with revving engines and a man speaking nearby	10.0
+134	audiocaps/audio/test/134.flac	A person is sawing wood and music is playing in the background	10.0
+135	audiocaps/audio/test/135.flac	Some scratching and rustling with small clicks	10.0
+136	audiocaps/audio/test/136.flac	A man speaking then a baby crying, duck quacking in background and finally a woman speaking	10.0
+137	audiocaps/audio/test/137.flac	A power tool vibrating quick followed by a man speaking and some bangs	10.0000625
+138	audiocaps/audio/test/138.flac	Some clicking followed by a sneeze and a man laughing	10.0
+139	audiocaps/audio/test/139.flac	There is a mature male talking to some animals	10.0
+140	audiocaps/audio/test/140.flac	Water running continuously	10.0
+141	audiocaps/audio/test/141.flac	Water trickles, splashes and gurgles, slow at first and then faster, and an adult male is speaking	10.0
+142	audiocaps/audio/test/142.flac	A woman talking back and forth with a child who is crying	9.999
+143	audiocaps/audio/test/143.flac	A man yelling followed by an infant crying then a woman shouting as a crowd of people talk and laugh	10.0
+144	audiocaps/audio/test/144.flac	Dirt shuffling followed by gears cranking and a branch snapping then a man talking	10.0
+145	audiocaps/audio/test/145.flac	Fly buzzing followed by frog swallowing it and then a croak	10.0
+146	audiocaps/audio/test/146.flac	Hissing together with an engine chugging	9.811375
+147	audiocaps/audio/test/147.flac	Sustained industrial engine noise	10.0
+148	audiocaps/audio/test/148.flac	Humming and vibrating of a power tool with some high frequency squealing	10.0
+150	audiocaps/audio/test/150.flac	A man speaks with distant traffic passing and some nearby rattling	10.0
+151	audiocaps/audio/test/151.flac	A man talking as a kid yells followed by an aircraft flying in the distance as wind blows into a microphone	10.0
+152	audiocaps/audio/test/152.flac	A clock ticks with breathing in the background	10.0
+153	audiocaps/audio/test/153.flac	A man speaks followed by popping noise and laughter	10.0
+155	audiocaps/audio/test/155.flac	Fire igniting followed by an electronic beep then footsteps running on concrete as vehicle engines run idle and horns honk in the background	10.0
+156	audiocaps/audio/test/156.flac	Several gunshots with a click and glass breaking	10.0
+157	audiocaps/audio/test/157.flac	A man speaks followed by vibrations of a power tool	10.0
+158	audiocaps/audio/test/158.flac	A man is giving a speech while the crowd is chanting and clapping in the background	10.0
+159	audiocaps/audio/test/159.flac	A large explosion and a heartbeat, a person speaks	10.0
+161	audiocaps/audio/test/161.flac	Ducks quacking and chirping followed by a man talking while water trickles	10.0
+162	audiocaps/audio/test/162.flac	Humming from a motor with loud dry cracking	10.0
+163	audiocaps/audio/test/163.flac	An engine booms and hums with constant rattling	10.0
+164	audiocaps/audio/test/164.flac	A duck quacks followed by a man talking while birds chirp in the distance	10.0
+165	audiocaps/audio/test/165.flac	A woman and a man talking as another man talks softly and papers shuffle in the background	10.0
+166	audiocaps/audio/test/166.flac	A speedboat running as wind blows into a microphone	9.0135
+167	audiocaps/audio/test/167.flac	Rubbing and scraping a rough surface	10.0
+168	audiocaps/audio/test/168.flac	An emergency vehicle has the siren on	10.0
+169	audiocaps/audio/test/169.flac	A person whistling then a man speaking with plastic tapping	10.0
+170	audiocaps/audio/test/170.flac	A man talking as a motorbike engine runs and accelerates	10.0
+171	audiocaps/audio/test/171.flac	A vehicle engine running smoothly	10.0
+172	audiocaps/audio/test/172.flac	A dog barking as a man is talking while birds chirp and wind blows into a microphone	10.0
+173	audiocaps/audio/test/173.flac	A herd of sheep baaing	10.0
+174	audiocaps/audio/test/174.flac	Rain falling as a motor engine runs idle and a man talks	10.0
+176	audiocaps/audio/test/176.flac	Distant murmuring followed by a child cooing and laughter	10.0
+177	audiocaps/audio/test/177.flac	An engine running	10.0
+178	audiocaps/audio/test/178.flac	A speedboat is racing across water with loud wind noise	10.0
+179	audiocaps/audio/test/179.flac	A man speaking through a telephone speaker as another man is talking	10.0
+180	audiocaps/audio/test/180.flac	A short hammering sound followed by two men speaking	10.0
+181	audiocaps/audio/test/181.flac	A loud and forceful bang	10.0
+182	audiocaps/audio/test/182.flac	Speaking and an engine running	10.0
+183	audiocaps/audio/test/183.flac	A helicopter engine working	10.0
+184	audiocaps/audio/test/184.flac	A male speech and wind and then birds chirping	10.0
+185	audiocaps/audio/test/185.flac	A man speaking followed by a woman talking then plastic clacking as footsteps walk on grass and a rooster crows in the distance	10.0
+186	audiocaps/audio/test/186.flac	A paper is being crumpled	10.0
+187	audiocaps/audio/test/187.flac	Church bells ringing	10.0
+188	audiocaps/audio/test/188.flac	A domestic pet is making noises and a baby cries	10.0
+189	audiocaps/audio/test/189.flac	Humming and vibrating from a power tool	10.0
+190	audiocaps/audio/test/190.flac	A helicopter flying as wind blows into a microphone	10.0
+191	audiocaps/audio/test/191.flac	A crowd murmurs as a siren blares and then stops at a distance	9.576
+192	audiocaps/audio/test/192.flac	Several bursts and explosions with grunting and growling	10.0005
+193	audiocaps/audio/test/193.flac	A bell is ringing	10.0
+195	audiocaps/audio/test/195.flac	Loud buzzing followed by rustling and a toilet flushing	9.997375
+196	audiocaps/audio/test/196.flac	A bus engine running as several vehicles pass by and car horns honk in the distance	10.0
+197	audiocaps/audio/test/197.flac	Motorcycle starting then driving away	10.0
+198	audiocaps/audio/test/198.flac	Applause and speech followed by a loud high pitched bell and more applause and speech	10.0
+199	audiocaps/audio/test/199.flac	Vehicles driving by as a muffled engine runs while a man speaks then another man speaking in the distance	10.0
+200	audiocaps/audio/test/200.flac	A kid crying as a man and a woman talk followed by a car door opening then closing	10.0
+201	audiocaps/audio/test/201.flac	Two men speaking with loud insects buzzing	10.0
+203	audiocaps/audio/test/203.flac	A car engine clicks and whines as it tries to start	10.0
+206	audiocaps/audio/test/206.flac	A cat meowing twice	4.2725
+207	audiocaps/audio/test/207.flac	An aircraft engine flying before becoming louder while several rapid gunshots fire	10.0
+209	audiocaps/audio/test/209.flac	A motor vehicle is running and vibrating, and a high-pitched squeal occurs	10.0
+210	audiocaps/audio/test/210.flac	Humming of a nearby jet engine	10.0
+211	audiocaps/audio/test/211.flac	A car engine is revving while driving	10.0
+212	audiocaps/audio/test/212.flac	An infant crying	9.0535
+213	audiocaps/audio/test/213.flac	Ducks quacking as birds chirp followed by a flock of ducks quacking	10.0
+214	audiocaps/audio/test/214.flac	A man speaks with a high frequency hum with some banging and clanking	10.0
+215	audiocaps/audio/test/215.flac	Wood lightly shuffling as insects buzz while birds chirp in the background	10.0
+216	audiocaps/audio/test/216.flac	A man speaking as an insect buzzes followed by a woman laughing then another man talking	10.0
+219	audiocaps/audio/test/219.flac	Tapping followed by water spraying and more tapping	10.0
+221	audiocaps/audio/test/221.flac	A man talking followed by another man speaking then a group of people laughing and a man speaking a bit in the background	10.0
+222	audiocaps/audio/test/222.flac	A crowd of people talking as ducks quack and a motorboat speeds by in the distance	9.967625
+224	audiocaps/audio/test/224.flac	Two men speaking followed by plastic clacking then a power tool drilling	10.0000625
+225	audiocaps/audio/test/225.flac	Dogs barking and growling followed by a man talking	4.9923125
+227	audiocaps/audio/test/227.flac	A person snoring during a series of thumps followed by a man talking in the background	10.0
+228	audiocaps/audio/test/228.flac	Chirping birds near and far	10.0
+229	audiocaps/audio/test/229.flac	A series of rapid gunshots firing alongside footsteps running on concrete as a man groans while a muffled heart beats in the background	10.0
+230	audiocaps/audio/test/230.flac	A muffled aircraft engine operating as a group of people talk in the background	10.0
+232	audiocaps/audio/test/232.flac	Small dogs yip and whimper	10.0
+233	audiocaps/audio/test/233.flac	A vehicle engine revving several times as a man speaks over an intercom along with a crowd of people talking and whistling	10.0
+234	audiocaps/audio/test/234.flac	Hisses continuously with some static	10.0
+235	audiocaps/audio/test/235.flac	A toilet is flushed with a loud hum and gurgling water	10.0
+236	audiocaps/audio/test/236.flac	A low slow groan followed by a crash and men speaking with distant birds	10.0
+237	audiocaps/audio/test/237.flac	People talking while herding goats near a fast running stream	10.0000625
+238	audiocaps/audio/test/238.flac	A large bell rings out multiple times	10.0
+239	audiocaps/audio/test/239.flac	A man speaking as plastic is clanking followed by a door hatch opening and plastic tumbling with a vehicle engine revving in the background	10.0
+240	audiocaps/audio/test/240.flac	Rain is splashing on a surface while rustling occurs and a car door shuts, and traffic is discernible in the distance	10.0
+242	audiocaps/audio/test/242.flac	A man speaks with some high pitched ringing and some rustling	10.0
+243	audiocaps/audio/test/243.flac	A cat meowing followed by people speaking	10.0
+244	audiocaps/audio/test/244.flac	A man speaking followed by a horse trotting	10.0
+245	audiocaps/audio/test/245.flac	A duck quacks repeatedly and soft thumping occurs, a bird chirps twice, and an adult male speaks	10.0
+246	audiocaps/audio/test/246.flac	Train blowing horn then approaching track sounds	10.0
+247	audiocaps/audio/test/247.flac	Graveling shuffling followed by a young kid talking as pigeons are cooing and a motor hums in the background	10.0
+248	audiocaps/audio/test/248.flac	A vehicle running and a man talking	9.9999375
+249	audiocaps/audio/test/249.flac	A mid-size motor vehicle engine idles smoothly and is then revved several times, followed by a car door shutting	10.0
+250	audiocaps/audio/test/250.flac	A woman and man speak as click-clops occur and a sheep fleets	10.0
+251	audiocaps/audio/test/251.flac	Plastic cranking followed by metal rattling then a series of metal falling in the background as a man is talking	10.0
+252	audiocaps/audio/test/252.flac	Bird chirping while waves come in with high wind	10.0
+253	audiocaps/audio/test/253.flac	Water is falling, splashing and gurgling	9.999625
+254	audiocaps/audio/test/254.flac	A woman speaks quietly, and man answers much louder, then she speaks again	10.0
+256	audiocaps/audio/test/256.flac	A man speaking as rain lightly falls followed by thunder	9.186
+258	audiocaps/audio/test/258.flac	A man talking as ocean waves trickle and splash while wind blows into a microphone	10.0
+259	audiocaps/audio/test/259.flac	A stream of water trickling as plastic clanks against a metal surface followed by water pouring down a drain alongside a camera muffling	7.0
+261	audiocaps/audio/test/261.flac	Two adult males speak, a small horn blow, and clattering occurs	10.0
+263	audiocaps/audio/test/263.flac	A vehicle engine revving a few times	10.0
+264	audiocaps/audio/test/264.flac	A woman speaks while delivering a speech	10.0
+266	audiocaps/audio/test/266.flac	Vibrations of an idling engine with a man speaking	10.0
+267	audiocaps/audio/test/267.flac	A vehicle engine starting up then running idle	10.0
+268	audiocaps/audio/test/268.flac	Wind blowing followed by a scream with people speaking faintly in the distance	6.130125
+269	audiocaps/audio/test/269.flac	A person speaks and then a loud click occurs	9.5186875
+270	audiocaps/audio/test/270.flac	A kid speaking as camera plastic clicking followed by a crowd of people gasping and talking followed by a person whistling	10.0
+271	audiocaps/audio/test/271.flac	A woman talking while a group of children shout and talk in the background	10.0
+272	audiocaps/audio/test/272.flac	A man speaks, a power tool starts and increases in frequency, a clunking noise	10.0
+273	audiocaps/audio/test/273.flac	Squeaking and bouncing followed by a man speaking	10.0
+274	audiocaps/audio/test/274.flac	An infant crying as a group of kids and adults talk in the background while a woman talks in the foreground	9.2935
+275	audiocaps/audio/test/275.flac	A large truck engine running idle as a man is talking and wind blows into a microphone	10.0
+277	audiocaps/audio/test/277.flac	A steady ringing with the tick took of a clock	10.0
+278	audiocaps/audio/test/278.flac	Sizzling and crackling are occurring	10.0
+279	audiocaps/audio/test/279.flac	A man talking before and after a young kid talks as plastic rattles followed by an electronic beep	9.9535
+280	audiocaps/audio/test/280.flac	An infant crying	10.0
+281	audiocaps/audio/test/281.flac	A motorboat engine running as a man talks followed by wind blowing into a microphone and plastic clacking	10.0
+283	audiocaps/audio/test/283.flac	Emergency sirens wailing as a vehicle accelerates in the distance	10.0000625
+285	audiocaps/audio/test/285.flac	Chainsaw being run	10.0
+287	audiocaps/audio/test/287.flac	A subway train signal plays followed by a bell chiming followed by a horn honking as a crowd of people talk in the background	10.0
+288	audiocaps/audio/test/288.flac	A man talking as metal clacks followed by metal scrapping against a metal surface	10.0006875
+290	audiocaps/audio/test/290.flac	A woman speaks, then a phone chimes, then there is a burp followed by laughter	10.0
+291	audiocaps/audio/test/291.flac	Audio static followed by a man laughing before an electronic device motor slides then an infant cries	8.1735
+292	audiocaps/audio/test/292.flac	A man speaking through a radio as a truck engine runs idle and a vehicle accelerates in the distance	10.0
+293	audiocaps/audio/test/293.flac	Several very loud explosions occur	10.0
+294	audiocaps/audio/test/294.flac	A telephone dialing tone followed by a plastic switch flipping on and off	9.5018125
+295	audiocaps/audio/test/295.flac	A gun cocking then firing as metal clanks on a hard surface followed by a man talking during an electronic laser effect as gunshots and explosions go off in the distance	10.0
+296	audiocaps/audio/test/296.flac	Rapid clicking occurs, a motor vehicle engine attempts to start and grinds, then the engine fully engages and begins to run and vibrate	10.0
+297	audiocaps/audio/test/297.flac	Frogs croaking and a humming with insects vocalizing	10.0
+298	audiocaps/audio/test/298.flac	A baby crying and breathing	10.0
+299	audiocaps/audio/test/299.flac	An emergency vehicles' siren with a brief male yell	10.0
+301	audiocaps/audio/test/301.flac	A man talking followed by a brush scrapping then liquid spraying in the background	10.0008125
+302	audiocaps/audio/test/302.flac	Train engine as it travels	10.0
+303	audiocaps/audio/test/303.flac	A goat yelling while a group of people laugh and talk alongside bells jingling and a motorbike driving by in the distance	10.0
+304	audiocaps/audio/test/304.flac	A footstep shuffling on a hard surface followed by plastic clacking then a toilet flushing	10.0
+306	audiocaps/audio/test/306.flac	Digital beeps with some clicking	10.000625
+307	audiocaps/audio/test/307.flac	A woman talking while children talk in the background	10.0
+308	audiocaps/audio/test/308.flac	A man talking followed by screaming children, followed by more high pitched conversation	10.0
+310	audiocaps/audio/test/310.flac	Vibrations and splashing followed by people speaking	10.0
+312	audiocaps/audio/test/312.flac	A crowd is clapping at an animal of some kind	10.0
+313	audiocaps/audio/test/313.flac	Keys typing repeatedly	10.0
+314	audiocaps/audio/test/314.flac	A baby laughing loudly	10.0
+316	audiocaps/audio/test/316.flac	Coughing and speech	10.0
+317	audiocaps/audio/test/317.flac	A sink faucet turning on then off as water pours then drains down a pipe	9.8535
+318	audiocaps/audio/test/318.flac	A power tool motor humming as compressed air hisses alongside a group of people talking in the background followed by hammering on a metal surface	9.9998125
+319	audiocaps/audio/test/319.flac	A constant pounding noise followed by vibrating sounds	10.0
+320	audiocaps/audio/test/320.flac	A series of burping and farting	10.0
+321	audiocaps/audio/test/321.flac	A main is speaking over a group of bees are buzzing	10.0
+322	audiocaps/audio/test/322.flac	Wind blowing with a distant jet engine humming	10.0
+323	audiocaps/audio/test/323.flac	A large motor vehicle engine is idling, an adult female speaks, vehicle traffic is present, and people talk in the background	10.0
+325	audiocaps/audio/test/325.flac	Some groaning followed by a woman speaking	9.4335
+327	audiocaps/audio/test/327.flac	Water gurgles while a vehicle engine accelerates with a loud exhaust	10.0
+328	audiocaps/audio/test/328.flac	A man talking followed by plastic crumpling and crinkling	10.0
+329	audiocaps/audio/test/329.flac	A vehicle driving by while splashing water as a stream of water trickles and flows followed by a thunder roaring in the distance while wind blows into a microphone	10.0
+331	audiocaps/audio/test/331.flac	Artillery cannons firing several times	10.0
+332	audiocaps/audio/test/332.flac	A horse clip-clops and a horse neighs from a distance	10.0
+333	audiocaps/audio/test/333.flac	Human voices followed by the movement of a vehicle	10.0
+334	audiocaps/audio/test/334.flac	Ongoing speech with the faint quacking of a duck in the background	10.0
+335	audiocaps/audio/test/335.flac	Music plays followed by some banging and whooshes then gunshots and a grunt from a man	10.0
+336	audiocaps/audio/test/336.flac	Drilling with intermittent stopping and a man moaning briefly	10.0
+337	audiocaps/audio/test/337.flac	Male speech with people speaking in the background	10.0
+338	audiocaps/audio/test/338.flac	A piano playing as plastic bonks	10.0006875
+339	audiocaps/audio/test/339.flac	Two large loud burps	10.0
+340	audiocaps/audio/test/340.flac	Vibrating noise from an engine	8.9536875
+341	audiocaps/audio/test/341.flac	Spinning tires on pavement	10.0
+343	audiocaps/audio/test/343.flac	Food sizzling while cooking	9.4939375
+344	audiocaps/audio/test/344.flac	A man talking followed by a woman shouting then yelling as wind blows into a microphone while birds chirp in the background	10.0
+345	audiocaps/audio/test/345.flac	A person burps followed by laughter and a woman speaking	10.0000625
+347	audiocaps/audio/test/347.flac	A male speaking and a saw running	10.0
+348	audiocaps/audio/test/348.flac	A river stream flowing followed by a kid talking	10.0
+349	audiocaps/audio/test/349.flac	Someone whistles followed by a bird tweeting with chirps in the background	10.0
+350	audiocaps/audio/test/350.flac	Instrumental music playing as a woman speaks followed by rain pouring then rain falling on a surface	10.0006875
+351	audiocaps/audio/test/351.flac	An idle steam engine running while steam blows and hisses and a man talks faintly in the background	10.0
+352	audiocaps/audio/test/352.flac	Engines hum and vibrate and rev their engines	10.0
+357	audiocaps/audio/test/357.flac	A mid-size motor vehicle engine accelerates and is accompanied by hissing and spinning tires, then it decelerates and an adult male begins to speak	10.0
+358	audiocaps/audio/test/358.flac	Rustling followed by a man speaking and a child laughing	10.0
+360	audiocaps/audio/test/360.flac	A woman speaks followed by a girl speaking faintly	10.0
+361	audiocaps/audio/test/361.flac	Typing is occurring on a typewriter, with fast and sharp taps and intermittent zipping of the carriage	10.0
+365	audiocaps/audio/test/365.flac	A motorcycle engine is idling and vibrating while an adult male speaks	10.0
+366	audiocaps/audio/test/366.flac	A short loud vibration	10.0
+369	audiocaps/audio/test/369.flac	An emergency vehicle siren blasts as a man speaks	10.0
+370	audiocaps/audio/test/370.flac	A man speaking as a vehicle horn honks in the background and another man talks in the distance	10.0
+372	audiocaps/audio/test/372.flac	Beeping occurs, an adult male speaks, blasts and shots occur, and a helicopter is operating	10.0006875
+373	audiocaps/audio/test/373.flac	Water pouring out of a faucet at a high rate followed by a container filling with liquid before splashing out proceeded by scrubbing on a plastic surface	10.0
+374	audiocaps/audio/test/374.flac	Loud wolf whistles occur twice in a quiet environment	10.0
+375	audiocaps/audio/test/375.flac	Rustling followed by whistling then birds chirping	10.0
+376	audiocaps/audio/test/376.flac	A man talks as an engine idles loudly	10.000625
+377	audiocaps/audio/test/377.flac	Brief speech followed by whistling a tune	10.0
+378	audiocaps/audio/test/378.flac	Wind blowing heavily into a microphone as a speedboat drives by and water splashes in the distance followed by a man talking	9.0945625
+380	audiocaps/audio/test/380.flac	Sheep bleating with a baby sheep baaing	10.0
+381	audiocaps/audio/test/381.flac	Bells chiming followed by a train whistle blowing as a crowd of people talk in the background	9.060625
+382	audiocaps/audio/test/382.flac	It is raining and thundering, and then a man speaks	10.0
+384	audiocaps/audio/test/384.flac	A cat meowing and young female speaking	10.0
+385	audiocaps/audio/test/385.flac	Wind is blowing along with some engines	10.0
+386	audiocaps/audio/test/386.flac	Metal clanking followed by steam hissing as a truck engine is running then accelerating	10.0
+387	audiocaps/audio/test/387.flac	Camera rattling and muffling as a woman speaks in the background	10.0
+388	audiocaps/audio/test/388.flac	A woman speaks followed by a sewing machine slow stitching	10.0
+389	audiocaps/audio/test/389.flac	Men speak with some light clicks then vibrations and then digital clicks	10.0
+393	audiocaps/audio/test/393.flac	A vacuum moving back and forth	10.0
+394	audiocaps/audio/test/394.flac	Clicking and crinkling plastic with a person speaking	10.0
+395	audiocaps/audio/test/395.flac	A vehicle accelerating and driving by as birds chirp faintly in the distance	10.0
+396	audiocaps/audio/test/396.flac	Clicking followed by booming engines accelerating into the distance	10.005875
+397	audiocaps/audio/test/397.flac	A series of bell chime	10.0
+398	audiocaps/audio/test/398.flac	A crowd applauds with laughter while people communicate followed by a woman speaking	10.0
+399	audiocaps/audio/test/399.flac	A gunshot is followed by a click and clack and then a second gunshot	10.0004375
+401	audiocaps/audio/test/401.flac	Water is running, gurgling and splashing, and a quiet thump occurs	10.0
+403	audiocaps/audio/test/403.flac	A sewing machine operating idle followed by a man talking then several instances of metal ratcheting	10.0
+404	audiocaps/audio/test/404.flac	Vehicle running with a far away voice in the background	10.0
+405	audiocaps/audio/test/405.flac	A fire truck sounds the siren, and an engine is idling	10.0
+406	audiocaps/audio/test/406.flac	Rain pouring on a hard surface as a vehicle drives by while water splashes in the background	10.0
+407	audiocaps/audio/test/407.flac	A woman talking followed by a young girl talking while an infant cries	10.0
+408	audiocaps/audio/test/408.flac	A man and a woman laughing then talking followed by someone claps as a bell jingles repeatedly	10.0
+409	audiocaps/audio/test/409.flac	Pigeons peck, coo, and flap their wings before a man speaks	10.0
+410	audiocaps/audio/test/410.flac	A sound of vibrating motor	9.9535
+411	audiocaps/audio/test/411.flac	A muffled helicopter engine operating as paper crinkles in the background	10.0
+412	audiocaps/audio/test/412.flac	A man talking as metal clanks repeatedly on a porcelain dish	10.0004375
+413	audiocaps/audio/test/413.flac	Rapid typing and then a ding	10.0
+414	audiocaps/audio/test/414.flac	A man talking followed by a crowd laughing and applauding	10.0
+417	audiocaps/audio/test/417.flac	Muffled static followed by a popping and water dripping as birds chirp and vehicles drive by in the background	9.2135
+419	audiocaps/audio/test/419.flac	High frequency humming slows down and stops then begins again	10.0
+420	audiocaps/audio/test/420.flac	A synthesized rumble followed by a robotic woman talking alongside electronic beeps followed by a man speaking then another man speaking through an intercom as music plays in the background	10.0
+421	audiocaps/audio/test/421.flac	A man speaking while crinkling paper followed by plastic creaking then a toilet flushing	10.0
+422	audiocaps/audio/test/422.flac	Vehicle approaching while downshifting and passing by	10.0
+423	audiocaps/audio/test/423.flac	A man speaks during a monologue	10.0
+424	audiocaps/audio/test/424.flac	Gunshots firing before and after a person loudly exhaling followed by a revolver chamber spinning as a heart beats and footsteps walking on a stone surface	10.0
+426	audiocaps/audio/test/426.flac	Plates rattling and clanking as a woman talks and a faucet pours water	10.0
+427	audiocaps/audio/test/427.flac	People are laughing followed by a kid speaking	10.0
+428	audiocaps/audio/test/428.flac	A woman speaks while a crowd talks and chuckles	10.0
+430	audiocaps/audio/test/430.flac	Rapid gunfire with male yelling	10.0
+431	audiocaps/audio/test/431.flac	Water splashing and then a speech.	10.0
+432	audiocaps/audio/test/432.flac	People are giggling, and a man speaks	10.0
+433	audiocaps/audio/test/433.flac	Bird cooing then the sounds of wings flapping	10.0
+434	audiocaps/audio/test/434.flac	Rain falling with young female speaking	10.0
+435	audiocaps/audio/test/435.flac	Car racing by with light click and tapping	9.7735
+437	audiocaps/audio/test/437.flac	A woman breathing heavily followed by two sneezes then nose sniffling	10.0
+438	audiocaps/audio/test/438.flac	Several gunshots firing followed by two men talking then music playing	10.0
+439	audiocaps/audio/test/439.flac	A man yelling while a sheep talks as wind blows into a microphone and a helicopter flies in the distance	10.0
+440	audiocaps/audio/test/440.flac	Footsteps walking on a hard surface followed by a person snoring	10.0
+441	audiocaps/audio/test/441.flac	Wood thumping as a man is talking	10.0
+442	audiocaps/audio/test/442.flac	A boat engine running	9.591625
+443	audiocaps/audio/test/443.flac	Rhythmic metal clacking is ongoing, and a train steam whistle blows and fades	10.0
+444	audiocaps/audio/test/444.flac	A muffled man talking as a goat baas before and after two goats baaing in the distance while wind blows into a microphone	10.0
+445	audiocaps/audio/test/445.flac	Knocking noises followed by a machine sawing	10.0
+446	audiocaps/audio/test/446.flac	Water running and someone gets closer as the water gets louder	10.0
+447	audiocaps/audio/test/447.flac	A group of kids talking and laughing as a young girl talks	10.0
+448	audiocaps/audio/test/448.flac	A man speaking and birds chirping	10.0
+449	audiocaps/audio/test/449.flac	A car engine idles and then the horn blows	5.45675
+450	audiocaps/audio/test/450.flac	A vibrating car engine idles	10.0003125
+451	audiocaps/audio/test/451.flac	A man speaking on a microphone followed by a crowd of people laughing then applauding	10.0
+452	audiocaps/audio/test/452.flac	An explosion and then gunfire and a speech followed by another explosion	10.0
+453	audiocaps/audio/test/453.flac	Man talks while sheep bleats followed by another man laughing	10.0
+454	audiocaps/audio/test/454.flac	Bird tweeting then flapping wings	9.5335
+455	audiocaps/audio/test/455.flac	A young girl talking while an infant laughs	10.0
+456	audiocaps/audio/test/456.flac	Plastic clicking and camera muffling followed by a toy helicopter motor starting up	10.0
+457	audiocaps/audio/test/457.flac	Squealing from a pig with dogs barking and a man speaking	10.0
+458	audiocaps/audio/test/458.flac	An adult male gives a speech	8.9935
+461	audiocaps/audio/test/461.flac	A sewing machine lightly operating as a man speaks before plastic clicking followed by a man speaking again	10.0
+464	audiocaps/audio/test/464.flac	A cat meowing followed by a goat screaming while a crowd of people talk in the background	6.223
+465	audiocaps/audio/test/465.flac	A man talking as gusts of wind blow followed by an aircraft flying by	10.0
+466	audiocaps/audio/test/466.flac	A jackhammer operating then slowing down before operating at a normal rate again	10.0
+468	audiocaps/audio/test/468.flac	A sewing machine operating several times as a man is speaking	10.0
+469	audiocaps/audio/test/469.flac	Drums play as swooshing occurs	10.0
+470	audiocaps/audio/test/470.flac	Loud humming followed by hissing	10.0
+471	audiocaps/audio/test/471.flac	An electronic beep followed by a man talking	10.0
+472	audiocaps/audio/test/472.flac	Emergency vehicle racing by with siren and a man yelling	9.4935
+473	audiocaps/audio/test/473.flac	A bell clanking as a couple of men laugh then a man speaks in the distance	10.0
+474	audiocaps/audio/test/474.flac	An aircraft engine running	10.0
+475	audiocaps/audio/test/475.flac	A woman talking as a crowd of people talk in the background while a lawn mower engine runs followed by a horse neighing	10.0
+476	audiocaps/audio/test/476.flac	A faucet pouring water as water splashes against a metal surface and water fills a container	10.0
+477	audiocaps/audio/test/477.flac	A woman talking as goats are baaing followed by footsteps on gravel then a man talking while an airplane flies in the distance	9.1550625
+478	audiocaps/audio/test/478.flac	A man is speaking while typing	9.99925
+479	audiocaps/audio/test/479.flac	Footsteps are followed by oinking and then a squeal	9.0335
+480	audiocaps/audio/test/480.flac	A vehicle engine running then powering down followed by a man talking in the background	9.8880625
+481	audiocaps/audio/test/481.flac	Helicopter engine running	10.0
+482	audiocaps/audio/test/482.flac	A musical horn	7.3535
+483	audiocaps/audio/test/483.flac	Metal shuffling followed by plastic clicking as wind blows into a microphone	10.0
+485	audiocaps/audio/test/485.flac	Glass doors slamming and sliding shut	10.0
+486	audiocaps/audio/test/486.flac	A gun is fired few times followed by magazine clinking	10.0
+487	audiocaps/audio/test/487.flac	Faint snoring and gurgling	10.0
+488	audiocaps/audio/test/488.flac	A man speaking while water is spraying into a sink and draining	10.0
+489	audiocaps/audio/test/489.flac	Water splashing and trickling as wind blows into a microphone while a man speaks over a radio	10.0
+491	audiocaps/audio/test/491.flac	A person snoring with repeated soft tapping on a wooden surface in the background	10.0
+492	audiocaps/audio/test/492.flac	A duck quacks while a rooster crows and a crowd chatters followed by a girl laughing	9.1935
+493	audiocaps/audio/test/493.flac	Birds chirping and tweeting	10.0
+494	audiocaps/audio/test/494.flac	A woman speaks as food sizzles in a pan	10.0
+496	audiocaps/audio/test/496.flac	Plastic crackling as a bird is singing and chirping	10.0
+497	audiocaps/audio/test/497.flac	A person making noises and screaming	10.0
+498	audiocaps/audio/test/498.flac	A man speaking in the background as another man speaks in the foreground followed by a crowd of people applauding	10.0
+499	audiocaps/audio/test/499.flac	An engine idling and ticking with distant traffic and a man speaking	9.289625
+500	audiocaps/audio/test/500.flac	Men speak with gunshots and booms	9.2119375
+501	audiocaps/audio/test/501.flac	Pigeons are cooing	10.0
+502	audiocaps/audio/test/502.flac	A steam engine running on railroad tracks as steam hisses and a crowd of people talk in the background	10.0
+503	audiocaps/audio/test/503.flac	A man talking as insects buzz by	10.0
+505	audiocaps/audio/test/505.flac	Sizzling of food frying	10.0
+506	audiocaps/audio/test/506.flac	A man talking as a man is snoring	10.0
+507	audiocaps/audio/test/507.flac	Ducks quack with distant passing traffic	10.000625
+508	audiocaps/audio/test/508.flac	Loud clicks with gusting wind and several rapid fire gunshots	10.0
+509	audiocaps/audio/test/509.flac	An emergency siren wailing as a truck drives by	10.0
+510	audiocaps/audio/test/510.flac	Snoring occurs in a rhythmic pattern	10.0
+511	audiocaps/audio/test/511.flac	Liquid splashing and dripping as a kid laughs	10.0
+513	audiocaps/audio/test/513.flac	Running footsteps followed by spraying noise	10.0
+514	audiocaps/audio/test/514.flac	Rustling with scraping as pigeons coo	10.0
+515	audiocaps/audio/test/515.flac	A sprayer is emitting liquids with a loud whooshing noise	10.0
+517	audiocaps/audio/test/517.flac	A tapping noise followed by a child speaking	10.0
+518	audiocaps/audio/test/518.flac	A gunshot firing in the distance followed by steam hissing and fire crackling	10.0
+519	audiocaps/audio/test/519.flac	Two people are speaking and laughing, and their voices are distorted by slowing down the audio	10.0
+520	audiocaps/audio/test/520.flac	A woman speaks as water splashes	10.0
+521	audiocaps/audio/test/521.flac	A woman talking followed by a group of people laughing as plastic crinkles	10.0
+523	audiocaps/audio/test/523.flac	A woman gives a speech followed by applause	10.0
+525	audiocaps/audio/test/525.flac	Pigeons coo and a distant rooster crows	10.0
+526	audiocaps/audio/test/526.flac	Emergency sirens wail as a truck engine accelerates and drives by	10.0
+527	audiocaps/audio/test/527.flac	A woman speaking	10.0
+528	audiocaps/audio/test/528.flac	A woman talking before and after a water faucet pouring followed by clapping	10.0
+529	audiocaps/audio/test/529.flac	Digital beeps followed by static electric hissing	9.4535
+530	audiocaps/audio/test/530.flac	Race cars speed on the road, and a man talks	10.0
+531	audiocaps/audio/test/531.flac	Humming and rattling of an engine idling	9.9973125
+532	audiocaps/audio/test/532.flac	Emergency horns go off as a truck accelerates and drives by	10.0
+533	audiocaps/audio/test/533.flac	A clock ticking	10.0
+534	audiocaps/audio/test/534.flac	A motorbike engine running while a series of vehicle horns sound and a car alarm goes off in the background	10.0
+535	audiocaps/audio/test/535.flac	A goat bleats several times	10.0
+536	audiocaps/audio/test/536.flac	Instrumental music playing as a person whistles	10.0000625
+537	audiocaps/audio/test/537.flac	Ocean waves crashing as wind blows into a microphone	10.0
+539	audiocaps/audio/test/539.flac	A woman speaks with some light sanding	10.0
+541	audiocaps/audio/test/541.flac	A series of high pitched squeals occur	10.0
+542	audiocaps/audio/test/542.flac	An idle vehicle engine running and a bird chirping in the distance followed by a train horn honking then a train on railroad tracks moving	10.0
+544	audiocaps/audio/test/544.flac	Snoring and then a speech	10.0000625
+546	audiocaps/audio/test/546.flac	Wood stirring in a pot followed by a wooden object falling as a woman is talking as food is sizzling and light guitar music is playing	10.0
+547	audiocaps/audio/test/547.flac	Insects and birds vocalizing together	10.0
+548	audiocaps/audio/test/548.flac	Man yelling and belching	4.8994375
+549	audiocaps/audio/test/549.flac	Music plays followed by a man speaking	10.0
+550	audiocaps/audio/test/550.flac	A man screaming followed by a door slamming shut then a series of cardboard thumping and metal bars clacking	9.8421875
+552	audiocaps/audio/test/552.flac	Ringing of a bell with people speaking in the distance	10.0
+553	audiocaps/audio/test/553.flac	A muffled helicopter engine flying	10.0
+554	audiocaps/audio/test/554.flac	Several loud whooshes	10.0
+555	audiocaps/audio/test/555.flac	A cat meowing as a man giggles	10.0
+556	audiocaps/audio/test/556.flac	A woman talking followed by someone coughs then another woman talking as a stream of water flows and trickles	10.0
+557	audiocaps/audio/test/557.flac	Footsteps shuffling while a person heavily breathes with a series of cloth slapping against a hard surface	10.0
+559	audiocaps/audio/test/559.flac	Beeping with men speaking faintly in the distance with an air release	10.0
+560	audiocaps/audio/test/560.flac	A train running on railroad tracks as a train horn blows and steam hisses	10.0
+562	audiocaps/audio/test/562.flac	Loud vibrations from a revving engine that increases	10.0
+563	audiocaps/audio/test/563.flac	Car engine running and then slowly turning off with a loud stuttering noise going off twice with slight pause between	10.0
+564	audiocaps/audio/test/564.flac	Two adult males speak, while a motorcycle engine idles and people talk in the background	10.0
+565	audiocaps/audio/test/565.flac	A man talking as music plays followed by a guitar strumming as steam hisses in the background	10.0
+566	audiocaps/audio/test/566.flac	Someone belches followed by a group of people laughing and talking then a man talking in the foreground	10.0
+567	audiocaps/audio/test/567.flac	Food and oil sizzling followed by oil popping then steam hissing as a man talks and light music plays in the background	10.0
+568	audiocaps/audio/test/568.flac	An insect buzzing as plastic clacks and plastic slaps a hard surface	10.0
+569	audiocaps/audio/test/569.flac	Typing on a keyboard with a man speaking	10.0
+570	audiocaps/audio/test/570.flac	An adult male speaks hesitantly, and electronic beeps randomly occur	10.0
+571	audiocaps/audio/test/571.flac	A man is speaking with bird sounds in the background followed by a whistling sound	10.0
+572	audiocaps/audio/test/572.flac	Water spraying on a plastic surface	10.0
+573	audiocaps/audio/test/573.flac	A woman speaks with flapping wings and chirping birds	10.0
+574	audiocaps/audio/test/574.flac	An idle vehicle engine running as wind blows into a microphone	10.0
+575	audiocaps/audio/test/575.flac	Two woman communicating with each other as a goat is baaing	10.0
+576	audiocaps/audio/test/576.flac	Splashing water with children speaking and people screaming with a distant blow of a whistle	10.0
+577	audiocaps/audio/test/577.flac	A very low-pitched hum occurs, followed by an explosion	7.6335
+578	audiocaps/audio/test/578.flac	Rain and light thunder	10.0
+579	audiocaps/audio/test/579.flac	A duck quacking followed by plastic camera muffling	10.0
+580	audiocaps/audio/test/580.flac	Firecrackers popping as a crowd of people cheer and whistle	10.0
+581	audiocaps/audio/test/581.flac	Whispering followed by loud, consistent sizzling	9.9976875
+582	audiocaps/audio/test/582.flac	A female speaking and then a toilet flushing with multiple females speaking during and after	10.0
+583	audiocaps/audio/test/583.flac	A clock ticking followed by a some wooden clacking	10.0
+584	audiocaps/audio/test/584.flac	Bells chiming as birds chirp in the background followed by plastic clanking and shuffling	10.0
+585	audiocaps/audio/test/585.flac	Muffled sounds followed by metal being hit	10.0
+586	audiocaps/audio/test/586.flac	Speech and insects buzzing	9.999375
+587	audiocaps/audio/test/587.flac	Water lapping in waves as a man talking	10.0
+589	audiocaps/audio/test/589.flac	Plastic camera muffling followed by a man yelling as a pig squeals	10.0
+590	audiocaps/audio/test/590.flac	An idle helicopter engine running as birds chirp in the background	10.0
+592	audiocaps/audio/test/592.flac	Water pouring from a faucet and draining into a pipe while a young girl talks followed by a brush scrubbing then a person spitting	10.0
+593	audiocaps/audio/test/593.flac	Large church bells ring as rain falls on a hard surface and wind blows lightly into a microphone	10.0
+594	audiocaps/audio/test/594.flac	Race car revving its engine	10.0
+595	audiocaps/audio/test/595.flac	A man making a horn sound and then speaking	9.2735
+596	audiocaps/audio/test/596.flac	A woman speaking	10.000625
+598	audiocaps/audio/test/598.flac	Continuous hissing and clanking	10.0
+600	audiocaps/audio/test/600.flac	A man speaks followed by a loud burst then laughter	8.212625
+601	audiocaps/audio/test/601.flac	A person snoring	10.0
+602	audiocaps/audio/test/602.flac	A group of people talk as a man snores	10.0
+603	audiocaps/audio/test/603.flac	A muffled car engine revving several times as tires skid followed by a vehicle engine accelerating	9.5289375
+604	audiocaps/audio/test/604.flac	Wood scrapping followed by a man talking as a dog barks in the background	10.0
+605	audiocaps/audio/test/605.flac	Bee buzzes while man speaks	10.0
+606	audiocaps/audio/test/606.flac	A dog barking as a man is talking while wind blows into a microphone as birds chirp in the distance	10.000625
+607	audiocaps/audio/test/607.flac	U'A clock ticking followed by a cuckoo bird cooing then music playing.	10.0
+608	audiocaps/audio/test/608.flac	A man speaking followed by footsteps on gravel as birds chirp in the background	10.0
+609	audiocaps/audio/test/609.flac	A man talking as a vehicle engine is running and wind is blowing into a microphone	10.0
+610	audiocaps/audio/test/610.flac	A girl laughing as a person is snoring	10.0
+611	audiocaps/audio/test/611.flac	A woman whispering, then a baby cries. The woman calls out loudly, a male voice answers over the baby whining	10.0
+613	audiocaps/audio/test/613.flac	Man speaking with light wind sounds	10.0
+614	audiocaps/audio/test/614.flac	A male speech and static	10.0
+615	audiocaps/audio/test/615.flac	A clock chiming	9.0735
+616	audiocaps/audio/test/616.flac	A horn beeping rapidly then a long loud beep	10.0
+618	audiocaps/audio/test/618.flac	A duck chirping as water lightly trickles and splashes	10.0
+620	audiocaps/audio/test/620.flac	Metal squeaking and clanking followed by a man talking then a faucet pouring water	10.0
+621	audiocaps/audio/test/621.flac	A person snoring	10.0
+622	audiocaps/audio/test/622.flac	Water trickling and pouring	10.0
+623	audiocaps/audio/test/623.flac	Rain falling as birds are chirping followed by thunder	10.0
+624	audiocaps/audio/test/624.flac	A machine is used to spray an object	10.0
+625	audiocaps/audio/test/625.flac	A woman talking as food and oil sizzles and metal clacks in a pot followed by a girl speaking	10.0
+626	audiocaps/audio/test/626.flac	A woman speaks followed by groaning and grunting	10.0
+627	audiocaps/audio/test/627.flac	A blaring siren from a vehicle passes by, then echoes and fades into the distance	5.0
+629	audiocaps/audio/test/629.flac	A man laughs followed by distant hums and birds chirping	10.0
+630	audiocaps/audio/test/630.flac	A baby cries, and people are communicating	10.0
+631	audiocaps/audio/test/631.flac	Water splashing with multiple voices in background	9.2324375
+632	audiocaps/audio/test/632.flac	A crowd applauds and there is a muffled speaker in the background	10.0
+634	audiocaps/audio/test/634.flac	Traffic sounds of vehicles with birds chirping and far away voices	9.999875
+636	audiocaps/audio/test/636.flac	An animal is galloping with a clip-clop noise	10.0
+637	audiocaps/audio/test/637.flac	An engine running and then revving	10.0
+638	audiocaps/audio/test/638.flac	A man speaking as a baby is crying over a radio	10.0
+640	audiocaps/audio/test/640.flac	Drilling noise loud and continue	9.9998125
+641	audiocaps/audio/test/641.flac	An adult male speaks while crunching footfalls occur, then a metal car door clicks open, slight rustling occurs, and metal clinks	10.0
+642	audiocaps/audio/test/642.flac	Insects buzzing followed by plastic camera muffling and a kid speaking then footsteps walking on foliage	9.8135
+643	audiocaps/audio/test/643.flac	A click occurs then a woman speaks followed by a sewing machine stitching	10.0
+644	audiocaps/audio/test/644.flac	A truck engine running followed by a truck horn honking	10.0000625
+645	audiocaps/audio/test/645.flac	Water softly trickling	9.7446875
+646	audiocaps/audio/test/646.flac	A vehicle accelerates and then slows down	10.0
+647	audiocaps/audio/test/647.flac	A person is snoring	10.0
+648	audiocaps/audio/test/648.flac	Wind is blowing and heavy rain is falling and splashing	10.0
+649	audiocaps/audio/test/649.flac	A woman speaks with crinkling plastic	10.0
+650	audiocaps/audio/test/650.flac	Pigeons coo and flap their wings	10.0
+652	audiocaps/audio/test/652.flac	A man speaks over the television and a baby cries	10.0
+653	audiocaps/audio/test/653.flac	A man talking as wood clanking as steam hisses in the background	10.0
+655	audiocaps/audio/test/655.flac	Children screaming as a man laughs followed by someone whispering then a young boy talking	10.0
+658	audiocaps/audio/test/658.flac	Man speaks midst a crowd, a distant horn blow, then a race car goes by	10.0
+659	audiocaps/audio/test/659.flac	Frogs croaking with rustling in the background	9.32225
+660	audiocaps/audio/test/660.flac	An engine revving followed by horn honking and more revving	10.0
+661	audiocaps/audio/test/661.flac	Bells chiming followed by a lawn mower engine running then a steam engine running and train whistle blowing while a crowd of people talk in the background	10.0
+662	audiocaps/audio/test/662.flac	A cat meowing repeatedly	9.754125
+663	audiocaps/audio/test/663.flac	Rapid and repeated gunfire and then a male speech	10.0
+664	audiocaps/audio/test/664.flac	Wind blowing and an engine running	10.0
+665	audiocaps/audio/test/665.flac	A group of men speaking as cannons fire while rain falls and water splashes followed by thunder roaring	10.0
+666	audiocaps/audio/test/666.flac	Plastic crinkling as a man is talking	10.0
+667	audiocaps/audio/test/667.flac	Vibrations from a sewing machine followed by a woman speaking	10.0
+669	audiocaps/audio/test/669.flac	An adult male speaks in the foreground, and dogs are barking and people are talking in the background	9.4253125
+670	audiocaps/audio/test/670.flac	An adult female speaks while sizzling and crackling are ongoing, and metal thumping and clinking occur	10.0
+671	audiocaps/audio/test/671.flac	A woman speaking very quickly	10.0
+672	audiocaps/audio/test/672.flac	A female voice briefly speaks followed by crinkling noises	10.0
+673	audiocaps/audio/test/673.flac	A woman speaking while a crowd murmurs in the background	7.7555
+674	audiocaps/audio/test/674.flac	A child talking followed by a man talking as a young boy mumbles while birds chirp in the background	10.0
+675	audiocaps/audio/test/675.flac	A man speaks with some clicking and some sanding	9.99975
+676	audiocaps/audio/test/676.flac	Birds chirp and a duck quacks followed by a dog barking	9.9905
+678	audiocaps/audio/test/678.flac	A dog breathes heavily with a whirring background noise	10.0
+679	audiocaps/audio/test/679.flac	An infant and a woman laughing followed by someone spits then a woman talking	10.0
+680	audiocaps/audio/test/680.flac	Birds coo, and a dog growls and barks	9.466125
+681	audiocaps/audio/test/681.flac	Men speak as someone snores	10.0
+682	audiocaps/audio/test/682.flac	An idle vehicle engine running	10.0
+684	audiocaps/audio/test/684.flac	Bells ringing as wood shuffles and clacks while a muffled clock ticks in the background	10.0
+685	audiocaps/audio/test/685.flac	A motorboat engine turns on	10.0
+686	audiocaps/audio/test/686.flac	A man talking as an infant is crying followed by a man humming	10.0
+687	audiocaps/audio/test/687.flac	Loud ringing of a clock followed by faint tick rocks	10.0
+688	audiocaps/audio/test/688.flac	A series of electronic beeps alongside plastic clicking and laser effects followed by a wooden thud and synthesized explosion	9.0435
+689	audiocaps/audio/test/689.flac	A clock ticking during high-pitched humming followed by a person sniffing	10.0
+690	audiocaps/audio/test/690.flac	Police sirens sounding as wind is blowing heavily into a microphone	10.0
+691	audiocaps/audio/test/691.flac	Male speaking, laughter and shouting and clapping	10.0
+692	audiocaps/audio/test/692.flac	Rustling and then male speech and then creaking	10.0
+693	audiocaps/audio/test/693.flac	A duck quacking repeatedly, and a horses hooves clopping	10.0
+694	audiocaps/audio/test/694.flac	A man talking followed by footsteps on foliage and twigs as birds chirp in the background	10.0
+695	audiocaps/audio/test/695.flac	Race cars are racing followed by people talking	9.006375
+696	audiocaps/audio/test/696.flac	Motor cycle motor running on idle	10.0
+698	audiocaps/audio/test/698.flac	A rolling train blows its horn multiple times	10.0
+699	audiocaps/audio/test/699.flac	Heavy rain hitting the ground	10.0
+700	audiocaps/audio/test/700.flac	A motorcycle engine starting up then revving several times as a man talks in the background while wind blows into a microphone	10.0
+701	audiocaps/audio/test/701.flac	Vibrations from a small engine get louder as they pass by then into the distance	10.0
+702	audiocaps/audio/test/702.flac	A person sneezing twice followed by a man speaking then a kid chuckling as a clock ticks in the background	10.0
+703	audiocaps/audio/test/703.flac	Thuds on floor	10.0
+704	audiocaps/audio/test/704.flac	A power tool drilling as music plays in the background	10.0
+706	audiocaps/audio/test/706.flac	A powerful engine revs as it idles	10.0
+707	audiocaps/audio/test/707.flac	A man speaking as vehicles drive by and leaves rustling	10.0
+708	audiocaps/audio/test/708.flac	Clicking and sputtering of a running engine with people speaking and wind blowing	10.0
+709	audiocaps/audio/test/709.flac	A man mimics goat bleating	10.0
+710	audiocaps/audio/test/710.flac	A vehicle horn honking as a series of electronic beeps chime followed by a plastic click	6.5535
+711	audiocaps/audio/test/711.flac	A man talking followed by sawing then a metal click and plastic crinkling as water trickles and wind blows into a microphone	9.999375
+712	audiocaps/audio/test/712.flac	An aircraft taking off with some wind noises in the background	10.0
+713	audiocaps/audio/test/713.flac	Gun shot then an explosion followed by male laughter	9.385625
+714	audiocaps/audio/test/714.flac	A sudden horn blare as a train passes	10.0
+716	audiocaps/audio/test/716.flac	Plastic clacking followed by as person breathing then liquid pouring into containers	10.0
+717	audiocaps/audio/test/717.flac	An electronic device buzzing as music plays in the background followed by a woman talking faintly in the distance	10.0
+718	audiocaps/audio/test/718.flac	An engine and speech on a loudspeaker	9.999375
+719	audiocaps/audio/test/719.flac	A man laughing	10.0
+721	audiocaps/audio/test/721.flac	Rough sanding and scraping	10.000625
+722	audiocaps/audio/test/722.flac	A man speaking and another speaks over the phone	10.0003125
+723	audiocaps/audio/test/723.flac	Humming of loud engines with men speaking	9.08375
+726	audiocaps/audio/test/726.flac	A woman and a child speaking	10.0
+728	audiocaps/audio/test/728.flac	Birds chirping continuously	10.0
+729	audiocaps/audio/test/729.flac	A bleeping noise followed by a loud object in use	9.991375
+730	audiocaps/audio/test/730.flac	A man speaking on a microphone as a crowd of people laugh followed by glass clinking	10.0
+731	audiocaps/audio/test/731.flac	A voice on loudspeakers is drowned out by tires squealing and engines repeatedly revving	10.0
+732	audiocaps/audio/test/732.flac	A bell tolls followed by ticking	10.0
+733	audiocaps/audio/test/733.flac	An auto engine running loudly with some metallic sounds in the background	10.0
+734	audiocaps/audio/test/734.flac	The wind is blowing, a motor is buzzing and vibration is present, and an adult male is speaking in the background	10.0
+735	audiocaps/audio/test/735.flac	Boat motor idles then accelerates	10.0
+736	audiocaps/audio/test/736.flac	A group of people talking in the background as compressed air sprays while a tin can rattles followed by a man talking	10.0
+738	audiocaps/audio/test/738.flac	An engine running continuously together with clanking	10.0
+739	audiocaps/audio/test/739.flac	A train running on railroad tracks drives by as a train horn blows several times alongside a railroad crossing signal ringing	10.0
+740	audiocaps/audio/test/740.flac	Wood cracking as metal clanks and slams against a wooden surface	9.8135
+742	audiocaps/audio/test/742.flac	A drilling sound with humming in the background	10.0
+743	audiocaps/audio/test/743.flac	A child sings happily over the clattering of a running machine	10.0
+744	audiocaps/audio/test/744.flac	Ducks quack and honk	10.0
+746	audiocaps/audio/test/746.flac	Rubbing occurs while the electric motor runs	10.0
+747	audiocaps/audio/test/747.flac	Thundering sounds while rain pours	10.0
+748	audiocaps/audio/test/748.flac	Light wind with people screaming and engine running	9.0135
+749	audiocaps/audio/test/749.flac	Some rustling then silence then traffic passing in the distance with a cat meowing	10.000625
+750	audiocaps/audio/test/750.flac	A woman speaks with some rustling and hissing	10.0
+751	audiocaps/audio/test/751.flac	Frogs croaking together with a man speaking followed by rustling	10.0
+752	audiocaps/audio/test/752.flac	A woman speaks with chirping frogs and distant music playing	10.0
+754	audiocaps/audio/test/754.flac	An engine running	10.0
+755	audiocaps/audio/test/755.flac	A vehicle accelerating and revving while tires are skidding	10.0
+756	audiocaps/audio/test/756.flac	Man speaks followed by second man speaking then aircraft engine whines while starting	10.0
+757	audiocaps/audio/test/757.flac	A man exhaling then gasping for air followed by talking and gurgling	10.0
+758	audiocaps/audio/test/758.flac	Loud humming with wind blowing	10.0
+759	audiocaps/audio/test/759.flac	Train horns honking as wind blows into a microphone while a group of people talk and an electronic beep repeatedly sounds during a vehicle engine running idle	10.0
+760	audiocaps/audio/test/760.flac	People speak followed by a loud air horn and people laughing	9.0335
+761	audiocaps/audio/test/761.flac	A man talking while another person talks in the distance as water trickles and birds chirp in the background	10.0
+762	audiocaps/audio/test/762.flac	Splashing water with some rustling followed by a man speaking	10.0
+763	audiocaps/audio/test/763.flac	Water splashing followed by women speaking	10.0
+764	audiocaps/audio/test/764.flac	Water splashing as a baby is laughing and birds chirp in the background	10.0
+765	audiocaps/audio/test/765.flac	Small quick vibrations	9.2935
+767	audiocaps/audio/test/767.flac	Race cars are passing by	9.8175625
+768	audiocaps/audio/test/768.flac	A man speaks with several loud explosions and deep booming whooshes	9.92275
+769	audiocaps/audio/test/769.flac	Speech followed by quietness and a man speaks and laughs	10.0
+770	audiocaps/audio/test/770.flac	Outside noises of insects buzzing around, birds communicating and a man exchanging information with another man	10.0001875
+771	audiocaps/audio/test/771.flac	A man talking then whistling	10.0
+772	audiocaps/audio/test/772.flac	An engine idling and a man speaking	10.0
+773	audiocaps/audio/test/773.flac	Heavy rainfall with a brief muffled thunder from outside	10.0
+774	audiocaps/audio/test/774.flac	The rhythmic and repeated ticktock of a clock	10.0
+775	audiocaps/audio/test/775.flac	A railroad horn sounds repeatedly	10.0
+776	audiocaps/audio/test/776.flac	An engine chugging slowly followed by the engine revving	10.0
+777	audiocaps/audio/test/777.flac	A helicopter blades running	9.0620625
+778	audiocaps/audio/test/778.flac	A man speaking with frying food and stirring sounds	10.0
+779	audiocaps/audio/test/779.flac	Water splashes and people scream and speak and laugh	10.0
+780	audiocaps/audio/test/780.flac	Doves cooing quietly	10.0
+781	audiocaps/audio/test/781.flac	Pigeons coo and flap their wings	10.0
+782	audiocaps/audio/test/782.flac	A group of children talking as a man talks over an intercom while a large truck engine runs followed by compressed air releasing	10.0
+783	audiocaps/audio/test/783.flac	A loud thunder cracking	9.1073125
+784	audiocaps/audio/test/784.flac	A quiet ticking sound at regular intervals, interval shortens near the end, and a man coughs quietly	10.0
+785	audiocaps/audio/test/785.flac	Mechanical noises followed by pigs oinking and a man talking	10.0
+786	audiocaps/audio/test/786.flac	Male speech and then a burp	10.0
+787	audiocaps/audio/test/787.flac	A whirring motor run uninterrupted	10.0
+788	audiocaps/audio/test/788.flac	A female speech and laughing with running water	10.0
+789	audiocaps/audio/test/789.flac	Cats meowing and then wind	10.0
+790	audiocaps/audio/test/790.flac	A man is speaking with crowd noise in the background	10.0
+791	audiocaps/audio/test/791.flac	A running train and then a train whistle	10.0
+792	audiocaps/audio/test/792.flac	A man speaks then a small bird chirps	10.0
+793	audiocaps/audio/test/793.flac	A man talking while wood clanks on a metal pan followed by gravel crunching as food and oil sizzle	10.0008125
+794	audiocaps/audio/test/794.flac	An aircraft engine running then slowing down after a plastic click	10.0
+795	audiocaps/audio/test/795.flac	A loud shrill followed by a power tool drilling and a man screaming while liquid pours and splatters	10.000125
+796	audiocaps/audio/test/796.flac	Race car shifting gears	10.0
+797	audiocaps/audio/test/797.flac	Rapid gunfire and then male speech on a radio and more gunfire	10.0
+798	audiocaps/audio/test/798.flac	A bird whistling followed by a group of people softly talking then an electronic beep	10.0
+799	audiocaps/audio/test/799.flac	Consistent ripping and tearing	9.860875
+800	audiocaps/audio/test/800.flac	Waves crash against a shore	9.9135
+801	audiocaps/audio/test/801.flac	A vehicle engine revving several times with a series of compressed air releasing and plastic pops	10.0
+802	audiocaps/audio/test/802.flac	Spraying and hissing with some light vibrations	10.0006875
+803	audiocaps/audio/test/803.flac	Men talking followed by an engine starting	10.0
+804	audiocaps/audio/test/804.flac	Humming of an engine with people speaking in the distance followed by hissing	10.0000625
+805	audiocaps/audio/test/805.flac	A train running on railroad tracks followed by a train horn honking and railroad signal bells chiming	10.0
+806	audiocaps/audio/test/806.flac	Birds chirping and wind blowing in the background followed by a man talking then a goat baaing	10.0
+807	audiocaps/audio/test/807.flac	A man talking as birds chirp in the background followed by a loud popping	10.0
+808	audiocaps/audio/test/808.flac	A cat meowing briefly	1.7763125
+809	audiocaps/audio/test/809.flac	A small child and woman speak with splashing water	10.0
+810	audiocaps/audio/test/810.flac	A man speaks followed by bursts of hissing	10.0
+811	audiocaps/audio/test/811.flac	Music playing through a television speaker followed by a series of plastic clicking while white noise hisses	10.0
+812	audiocaps/audio/test/812.flac	A man laughing then a girl laughing during a loud power tool motor running	10.0
+813	audiocaps/audio/test/813.flac	A person speaks with some whistling and typing with faint booms	10.0
+814	audiocaps/audio/test/814.flac	Metal clanking followed by plastic rattling as compressed air is spraying while a crowd of people talk in the distance	10.0
+815	audiocaps/audio/test/815.flac	A rumbling sound followed by a spray of liquid and a man speaking	10.0
+816	audiocaps/audio/test/816.flac	Several church bells ringing	10.0
+818	audiocaps/audio/test/818.flac	Birds are chirping, rustling and thumping are ongoing, a crow caws in the distance, and then four knocks on wood occur	10.0000625
+819	audiocaps/audio/test/819.flac	An aircraft engine running as a crowd of people talk in the background	10.0
+820	audiocaps/audio/test/820.flac	A baby whining and crying	9.6135
+821	audiocaps/audio/test/821.flac	Dialing on a phone using touch tone dialing followed by a loud thump noise	10.0
+823	audiocaps/audio/test/823.flac	Waves coming against the shoreline	10.0
+824	audiocaps/audio/test/824.flac	Birds chirping repeatedly	10.0
+826	audiocaps/audio/test/826.flac	Puppies whining with some rustling and bird chirp	10.0
+827	audiocaps/audio/test/827.flac	Two adult females speak in the foreground while muted speech occurs in the background, and an infant begins to cry	10.0
+828	audiocaps/audio/test/828.flac	People are speaking while an engine is running, and an emergency vehicle sounds horn	10.0
+829	audiocaps/audio/test/829.flac	Male and female speech and then water running	10.0006875
+830	audiocaps/audio/test/830.flac	A man talks outside while several other men join in the conversation	9.9949375
+831	audiocaps/audio/test/831.flac	Insects buzzing as a man speaks while birds chirp and wind blows into a microphone	10.0
+832	audiocaps/audio/test/832.flac	A man speaking as wind is blowing into a microphone and an insect buzzes while another man talks in the background	10.0
+833	audiocaps/audio/test/833.flac	Male speaking and then applause	10.0
+834	audiocaps/audio/test/834.flac	Male speech and then growling followed by male speech	10.0
+835	audiocaps/audio/test/835.flac	A man speaks followed by a toilet flush	10.0
+836	audiocaps/audio/test/836.flac	Humming of an engine with people speaking	10.0
+837	audiocaps/audio/test/837.flac	Vibrating and humming of a power tool	9.999375
+838	audiocaps/audio/test/838.flac	Metal clanking and gears cranking as steam hisses	10.0
+840	audiocaps/audio/test/840.flac	A woman crying followed by a man talking	10.0
+841	audiocaps/audio/test/841.flac	Squealing and whimpering with some rustling followed by a man speaking	10.0000625
+842	audiocaps/audio/test/842.flac	Wind blows and a small bird chirps	10.0
+843	audiocaps/audio/test/843.flac	A man is speaking, and a crowd applauds	10.0
+844	audiocaps/audio/test/844.flac	Fireworks pop and explode	10.0
+845	audiocaps/audio/test/845.flac	Rustling with footsteps and people briefly gasping	9.2735
+846	audiocaps/audio/test/846.flac	An infant crying together with speech	9.8995625
+847	audiocaps/audio/test/847.flac	A man speaks followed by another man screaming and rapid gunshots	10.0
+848	audiocaps/audio/test/848.flac	A group of male are singing while a river is flowing	9.9999375
+849	audiocaps/audio/test/849.flac	A vehicle moving over pavement with loud horn honking noise	10.0
+850	audiocaps/audio/test/850.flac	Humming and sputtering from an idling engine	10.0
+853	audiocaps/audio/test/853.flac	A male speaking and shoes squeaking after a swoosh	10.0006875
+854	audiocaps/audio/test/854.flac	Light, intermittent hissing	10.0
+855	audiocaps/audio/test/855.flac	A man talking as pigeons coo and bird wings flap	10.0
+856	audiocaps/audio/test/856.flac	Wind blowing and people speaking with distant humming	10.0
+857	audiocaps/audio/test/857.flac	Chirping of birds with wind blowing	10.0
+858	audiocaps/audio/test/858.flac	A woman is speaking briefly in a quiet environment	10.0
+859	audiocaps/audio/test/859.flac	A man talking as birds are chirping alongside dirt and gravel shuffling followed by an animal squeaking	10.0
+861	audiocaps/audio/test/861.flac	Floor sweeping and a man then a woman talking in the background followed by horses neighing	9.53725
+863	audiocaps/audio/test/863.flac	A woman and a child is communicating, and birds chirp	10.0
+864	audiocaps/audio/test/864.flac	A woman speaks briefly, and a muffled engine rumbles	10.0
+865	audiocaps/audio/test/865.flac	Running water and distant speech	10.0
+866	audiocaps/audio/test/866.flac	Footsteps shuffling followed by a wooden door softly opening then a clock ticking	10.0
+867	audiocaps/audio/test/867.flac	Horses trotting while wood clanks several times as a woman talks and birds chirp in the background alongside wind blowing into a microphone	10.0
+868	audiocaps/audio/test/868.flac	Chirps and croaks of different frogs near and far	9.0375625
+869	audiocaps/audio/test/869.flac	Typing on a computer keyboard for a few seconds	9.849
+871	audiocaps/audio/test/871.flac	A small motor is buzzing and water is running, splashing and gurgling	9.192125
+872	audiocaps/audio/test/872.flac	Church bells tolling followed by a smaller bell ringing	10.0
+873	audiocaps/audio/test/873.flac	Some rustling with humming and consistent clicks	10.0
+874	audiocaps/audio/test/874.flac	A telephone rings with bell sounds	10.0
+875	audiocaps/audio/test/875.flac	A woman gives a speech	10.0
+876	audiocaps/audio/test/876.flac	Rustling pigeons coo	10.0
+877	audiocaps/audio/test/877.flac	Train blows horn twice as it speeds down the tracks	10.0
+878	audiocaps/audio/test/878.flac	A baby whines and laughs and a woman speaks	10.0
+879	audiocaps/audio/test/879.flac	People are speaking as a vehicle goes by	9.0535
+880	audiocaps/audio/test/880.flac	A car revving loudly followed by a man talking close by	9.1318125
+881	audiocaps/audio/test/881.flac	A female child speaks in a quiet environment	10.000625
+883	audiocaps/audio/test/883.flac	Someone burps and then laughs	10.0
+884	audiocaps/audio/test/884.flac	A machine makes buzzing sound with low television noise in the background	10.0
+885	audiocaps/audio/test/885.flac	A man talking followed by wood sawing then paper shuffling	10.0
+887	audiocaps/audio/test/887.flac	Loud nearby snoring	10.0
+888	audiocaps/audio/test/888.flac	An idle vehicle engine running normally before stuttering	9.9913125
+889	audiocaps/audio/test/889.flac	A bird calls in the distance occasionally, a hollow clanking sound is followed by rushing water, a double thump, and a trickling sound	10.0
+890	audiocaps/audio/test/890.flac	A metal pan clacking followed by compressed air spraying then an aerosol can tapping a hard surface while a man talks	10.0000625
+891	audiocaps/audio/test/891.flac	A man is speaking followed by a tap and motorcycle turning on	10.0
+894	audiocaps/audio/test/894.flac	A man gives a speech followed by applause	10.0
+895	audiocaps/audio/test/895.flac	Sheep bleat near and far	10.0
+900	audiocaps/audio/test/900.flac	A female voice and then a male voice followed by the female voice again	10.0
+901	audiocaps/audio/test/901.flac	Humming of an accelerating engine with wind passing and rustling	10.0
+902	audiocaps/audio/test/902.flac	A fly is buzzing around a man speaks	10.0
+903	audiocaps/audio/test/903.flac	A man speaks with low speech in the background	10.0
+904	audiocaps/audio/test/904.flac	A motorcycle revving by quickly twice	10.0
+907	audiocaps/audio/test/907.flac	A train horn blows and fades, then metal clacking occurs	10.0
+908	audiocaps/audio/test/908.flac	A man and a woman talking as paper crinkles	10.0
+909	audiocaps/audio/test/909.flac	Clip-clop of horse with an engine idling in the background	10.0
+912	audiocaps/audio/test/912.flac	Several birds are singing	10.0
+913	audiocaps/audio/test/913.flac	A person is snoring	10.0
+914	audiocaps/audio/test/914.flac	Men are speaking with an engine sound in the background	10.0
+915	audiocaps/audio/test/915.flac	A girl speaks followed by barking then a splash and laughter	10.0
+916	audiocaps/audio/test/916.flac	A muffled vehicle engine running as police sirens wail in the distance	10.0
+917	audiocaps/audio/test/917.flac	Humming with distant traffic passing and a distant siren ringing	9.9998125
+918	audiocaps/audio/test/918.flac	High frequency humming followed by wind blowing	10.0
+919	audiocaps/audio/test/919.flac	An adult female is speaking in a quiet environment	10.0
+920	audiocaps/audio/test/920.flac	A sneeze and sniffle	10.0
+921	audiocaps/audio/test/921.flac	Male speech and a goat bleating	9.7535
+922	audiocaps/audio/test/922.flac	People are speaking in the background, a hiss occurs, then a steam whistle blows	10.0
+923	audiocaps/audio/test/923.flac	A vehicle driving as a man and woman are talking and laughing	10.0
+924	audiocaps/audio/test/924.flac	An adult female speaks in a quiet environment	10.0
+925	audiocaps/audio/test/925.flac	A loud burst followed by rustling and then spraying	10.0
+926	audiocaps/audio/test/926.flac	Bees buzz while birds call followed by man speaking	10.0
+927	audiocaps/audio/test/927.flac	An engine whines in the background as a man talks followed by a smack then a high pitched whistle before a woman speaks	10.0
+928	audiocaps/audio/test/928.flac	A horn sounds as wind blows followed by motor vehicle engine noise	10.0
+929	audiocaps/audio/test/929.flac	A child talking then laughing with a man as an animal gurgles followed by a man talking	10.0
+931	audiocaps/audio/test/931.flac	Liquid is trickling, splashing and gurgling while filling a container	10.0
+932	audiocaps/audio/test/932.flac	An engine running and male speech	10.0
+934	audiocaps/audio/test/934.flac	High-pitched snoring occurs in a rhythmic pattern	10.0
+935	audiocaps/audio/test/935.flac	An adult male speaks, birds chirp in the background, and many insects are buzzing	10.000625
+936	audiocaps/audio/test/936.flac	Water is running, splashing and gurgling, thumps occur, an adult male speaks, and people are talking in the background	10.0
+937	audiocaps/audio/test/937.flac	A woman is speaking as surface is scratched followed by ticktock sounds	10.0
+938	audiocaps/audio/test/938.flac	Music is ongoing while two adult males speak, and sizzling and crackling occur along with random metal scraping	10.0
+939	audiocaps/audio/test/939.flac	Rustling and breathing	10.0
+940	audiocaps/audio/test/940.flac	A vehicle engine driving by while tires skid	10.0
+941	audiocaps/audio/test/941.flac	A child talking then a man speaking with bird sounds in the background	10.0
+943	audiocaps/audio/test/943.flac	An explosion and crackling	9.0935
+944	audiocaps/audio/test/944.flac	Wind blows hard then a man speaks	10.0
+945	audiocaps/audio/test/945.flac	Water splashing occurs while a person quacks to imitate a duck and an adult female laughs	10.0
+946	audiocaps/audio/test/946.flac	A man speaks then a second man speaks followed by a woman speaking	10.0
+947	audiocaps/audio/test/947.flac	A steam engine is hissing	10.0
+948	audiocaps/audio/test/948.flac	Vibrations from a sewing machine	10.0
+949	audiocaps/audio/test/949.flac	A woman talking before and after a pig oinking then cloth rustling followed by camera muffling	9.43525
+951	audiocaps/audio/test/951.flac	A woman laughing followed by a sheep baaing and wind blowing into a microphone	10.0
+952	audiocaps/audio/test/952.flac	Machine grinding wood	10.0
+953	audiocaps/audio/test/953.flac	A woman laughs then talks as horse breaths and gallops on grass	9.3135
+954	audiocaps/audio/test/954.flac	An idle motorboat engine running as a man is speaking while wind blows into a microphone	10.0
+956	audiocaps/audio/test/956.flac	Three young ladies' speech while sheep bleats	9.9935
+957	audiocaps/audio/test/957.flac	Race car revving its engine	10.0
+958	audiocaps/audio/test/958.flac	A man talking and metal clanking as food and oil sizzle	10.0
+959	audiocaps/audio/test/959.flac	A woman performs a speech	10.0
+960	audiocaps/audio/test/960.flac	A motorboat engine running as water splashes then fades out followed by glasses clanking as a group of people talk and woodwind instruments play	10.0
+961	audiocaps/audio/test/961.flac	A man talking while bongos play followed by frogs croaking	10.0
+962	audiocaps/audio/test/962.flac	Birds chirping and a horse neighing	8.0735
+963	audiocaps/audio/test/963.flac	Rain is falling and hitting surfaces and then splashing into puddles	9.9335
+964	audiocaps/audio/test/964.flac	Chewing as liquid is poured and some light banging on a hard surface	10.0
+965	audiocaps/audio/test/965.flac	A loud burst followed by laughter	9.63025
+966	audiocaps/audio/test/966.flac	Humming of engines with people speaking	10.0
+967	audiocaps/audio/test/967.flac	A male voice and a machine buzzing	10.0
+968	audiocaps/audio/test/968.flac	Male voice speaking briefly followed by drilling	10.0
+969	audiocaps/audio/test/969.flac	Mechanical humming with several beeps	10.0
+970	audiocaps/audio/test/970.flac	Whistling a tune	3.5178125
+973	audiocaps/audio/test/973.flac	Man talking and a tapping clicking	10.0
+974	audiocaps/audio/test/974.flac	People are speaking, and a goat bleats	10.0
