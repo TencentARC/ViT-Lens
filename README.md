@@ -67,7 +67,7 @@ For more model checkpoints (trained on different data or with better performance
 
 ## 📚 Usage
 - You may set your paths for you own project in [constants.py](vitlens/src/open_clip/constants.py).
-- We provide an API ([source file](vitlens/src/mm_vit_lens/vitlens.py)) and provide an example ([here](vitlens/src/mm_vit_lens/vitlens.py)) for reference. You can use ViT-Lens to extract and compare features across modalities:
+- We provide an API ([source file](vitlens/src/mm_vit_lens/vitlens.py)) and provide an example ([here](example.py)) for reference. You can use ViT-Lens to extract and compare features across modalities:
   ```python
   import os
   import torch
