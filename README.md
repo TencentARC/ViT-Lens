@@ -219,4 +219,4 @@ Questions and discussions are welcome via leiwx52@gmail.com or open an issue.
 
 
 ## 🙏 Acknowledgement
-This codebase is based on [open_clip](https://github.com/mlfoundations/open_clip), [ULIP](https://github.com/salesforce/ULIP), [OpenShape](https://github.com/Colin97/OpenShape_code) and [LAVIS](https://github.com/salesforce/LAVIS). Thanks the authors for their awesome contributions!
+This codebase is based on [open_clip](https://github.com/mlfoundations/open_clip), [ULIP](https://github.com/salesforce/ULIP), [OpenShape](https://github.com/Colin97/OpenShape_code) and [LAVIS](https://github.com/salesforce/LAVIS). Big thanks to the authors for their awesome contributions!
