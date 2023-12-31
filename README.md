@@ -179,8 +179,7 @@ Please refer to [MODEL_ZOO.md](MODEL_ZOO.md) for details.
 
 
 ## 👀 Visualization of Demo
-<details open><summary>[ Plug ViT-Lens into SEED: enabling compound Any-to-Image Generation ]</summary><img src="./assets/seed_integrated.png" alt="vitlens-seed" style="width: 70%; height: auto;">
-</details>
+<details close><summary>[ Plug ViT-Lens into SEED: enabling compound Any-to-Image Generation ]</summary><img src="./assets/seed_integrated.png" alt="vitlens-seed" style="width: 70%; height: auto;"></details>
 
 <details close><summary>[ Plug ViT-Lens into InstructBLIP: enabling Any instruction following ]</summary><img src="./assets/insblip_2inp.png" alt="vitlens.instblip2" style="width: 70%; height: auto;">
 </details>
