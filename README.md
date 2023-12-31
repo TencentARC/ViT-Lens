@@ -179,12 +179,18 @@ Please refer to [MODEL_ZOO.md](MODEL_ZOO.md) for details.
 
 
 ## 👀 Visualization of Demo
+
+<details open><summary>[ Plug ViT-Lens into SEED: Video Demo ]</summary><img src="./assets/vid_seed.gif" alt="vitlens-seed.video" style="width: 80%; height: auto;"></details>
+
 <details close><summary>[ Plug ViT-Lens into SEED: enabling compound Any-to-Image Generation ]</summary><img src="./assets/seed_integrated.png" alt="vitlens-seed" style="width: 70%; height: auto;"></details>
+
+
+<details open><summary>[ Plug ViT-Lens into InstructBLIP: Video Demo ]</summary><img src="./assets/insblip.gif" alt="insblip.video" style="width: 80%; height: auto;"></details>
 
 <details close><summary>[ Plug ViT-Lens into InstructBLIP: enabling Any instruction following ]</summary><img src="./assets/insblip_2inp.png" alt="vitlens.instblip2" style="width: 70%; height: auto;">
 </details>
 
-<details open><summary>[ Plug ViT-Lens into InstructBLIP: enabling Any instruction following ]</summary><img src="./assets/insblip_3inp.png" alt="mmvitlens.instblip3" style="width: 70%; height: auto;">
+<details close><summary>[ Plug ViT-Lens into InstructBLIP: enabling Any instruction following ]</summary><img src="./assets/insblip_3inp.png" alt="mmvitlens.instblip3" style="width: 70%; height: auto;">
 </details>
 
 <details close><summary>[ Example: Plug 3D lens to LLM ]</summary><img src="./assets/e_3d_plant.png" alt="plant" style="width: 60%; height: auto;">
