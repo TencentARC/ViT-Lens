@@ -105,7 +105,7 @@ vitlens_model_cfg = edict(
             perceiver_latent_heads=16,
             perceiver_num_latents=256,
             perceiver_self_per_cross_attn=1,
-            perceiver_weight_tie_layers=True,
+            perceiver_weight_tie_layers=False,
             ckpt_pth="/PATH_TO/vitlensL_pc.pt",
         ),
         audio=edict(
