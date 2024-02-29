@@ -59,9 +59,9 @@ pip install -r vitlens/requirements-training.txt
 |                 |   MN40   |  SUN.D   |  NYU.D   | Audioset | VGGSound |  ESC50   |    Clotho    |   AudioCaps   |  TAG.M   |  IN.EEG  |                           Download                           |
 | --------------- | :------: | :------: | :------: | :------: | :------: | :------: | :----------: | :-----------: | :------: | :------: | :----------------------------------------------------------: |
 | ImageBind(Huge) |    -     |   35.1   |   54.0   |   17.6   |   27.8   |   66.9   |   6.0/28.4   |   9.3/42.3    |    -     |    -     |                              -                               |
-| ViT-Lens        | **80.6** | **52.2** | **68.5** | **26.7** | **31.7** | **75.9** | **8.1/31.2** | **14.4/54.9** | **65.8** | **42.7** | [vitlensL](https://huggingface.co/TencentARC/ViT-Lens/blob/main/vitlensL.pt) |
+| ViT-Lens-L| **80.6** | **52.2** | **68.5** | **26.7** | **31.7** | **75.9** | **8.1/31.2** | **14.4/54.9** | **65.8** | **42.7** | [vitlensL](https://huggingface.co/TencentARC/ViT-Lens/blob/main/vitlensL.pt) |
 
-We release a one-stop `ViT-Lens-L` model and show its performance on ModelNet40 (MN40, top1 accuracy), SUN RGBD Depth-only (SUN.D, top1 accuracy), NYUv2 Depth-only (NYU.D, top1 accuracy), Audioset (Audioset, mAP), VGGSound (VGGSound, top1 accuracy), ESC50 (ESC50, top1 accuracy), Clotho (Clotho, R@1/R@10), AudioCaps (AudioCaps, R@1/R@10), TAG.M (Touch-and-Go Material, top1 accuracy) and IN.EEG (ImageNet EEG, top1 accuracy). ViT-Lens consistently outperforms ImageBind.
+We release a one-stop `ViT-Lens-L` model (based on Large ViT) and show its performance on ModelNet40 (MN40, top1 accuracy), SUN RGBD Depth-only (SUN.D, top1 accuracy), NYUv2 Depth-only (NYU.D, top1 accuracy), Audioset (Audioset, mAP), VGGSound (VGGSound, top1 accuracy), ESC50 (ESC50, top1 accuracy), Clotho (Clotho, R@1/R@10), AudioCaps (AudioCaps, R@1/R@10), TAG.M (Touch-and-Go Material, top1 accuracy) and IN.EEG (ImageNet EEG, top1 accuracy). ViT-Lens consistently outperforms ImageBind.
 
 For more model checkpoints (trained on different data or with better performance), please refer to [MODEL_ZOO.md](MODEL_ZOO.md).
 
