@@ -18,7 +18,7 @@
 ```shell
 cd vitlens/
 # you may change the path accordingly
-# train with 16 V100
+# train with 16 V100, total training time: ~8 hours
 # You may change --accum-freq arg if using less GPUs
 python -m torch.distributed.run $@ ./src/training/point_cloud/pc_tri_main.py \
     --cache_dir /path_to/cache_dir \
@@ -65,7 +65,7 @@ torchrun --nproc_per_node=1 ./src/training/point_cloud/pc_tri_main.py \
 ```shell
 cd vitlens/
 # you may change the path accordingly
-# train with 16 V100
+# train with 16 V100, total training time: ~100 hours
 # You may change --accum-freq arg if using less GPUs
 python -m torch.distributed.run $@  ./src/training/point_cloud/pc_tri_main.py \
   --cache_dir /path_to/cache \
@@ -110,7 +110,7 @@ torchrun --nproc_per_node=1 ./src/training/point_cloud/pc_tri_main.py \
 ```shell
 cd VitLens-OpenShape/
 # you may change the path accordingly
-# train with 32 V100
+# train with 32 V100, total training time: ~150 hours
 # you may change --accum-freq arg if using less GPUs
 python -m torch.distributed.run $@ ./src/main.py \
  --trial_name vitlensG_OpenShapeAll --clip-model ViT-bigG-14 --pretrained laion2b_s39b_b160k \
@@ -167,7 +167,7 @@ torchrun --nproc_per_node=8 ./src/inference.py \
 ```shell
 cd VitLens-OpenShape/
 # you may change the path accordingly
-# train with 32 V100
+# train with 32 V100, total training time: ~150 hours
 # you may change --accum-freq arg if using less GPUs
 python -m torch.distributed.run $@ ./src/main.py \
  --trial_name vitlensG_OpenShapeNOLVIS --clip-model ViT-bigG-14 --pretrained laion2b_s39b_b160k \
@@ -224,7 +224,7 @@ torchrun --nproc_per_node=8 ./src/inference.py \
 ```shell
 cd vitlens/
 # you may change the path accordingly
-# train with 8 V100
+# train with 8 V100, total training time: ~16 hours
 # You may change --accum-freq arg if using less GPUs
 torchrun --nproc_per_node=8 ./src/training/depth/depth_tri_main.py \
   --cache_dir /path_to/cache \
@@ -278,7 +278,7 @@ torchrun --nproc_per_node=1 ./src/training/depth/depth_tri_main.py \
 ```shell
 cd vitlens/
 # you may change the path accordingly
-# train with 32 V100, total batch size is 2048
+# train with 32 V100, total batch size is 2048, total training time: ~ 150 hours
 # you may change --accum-freq arg if using less GPUs
 python -m torch.distributed.run $@ ./src/training/audio/audio_tri_main.py \
   --cache_dir /path_to/cache \
@@ -336,7 +336,7 @@ torchrun --nproc_per_node=1  ./src/training/audio/audio_tri_main.py \
 ```shell
 cd vitlens/
 # you may change the path accordingly
-# train with 8 V100
+# train with 8 V100, total training time: ~16 hours
 # you may change --accum-freq arg if using less GPUs
 torchrun --nproc_per_node=8 ./src/training/tactile/tactile_tri_main.py \
   --cache_dir /path_to/cache \
@@ -383,7 +383,7 @@ torchrun --nproc_per_node=1 ./src/training/tactile/tactile_tri_main.py \
 ```shell
 cd vitlens/
 # you may change the path accordingly
-# train with 8 V100
+# train with 8 V100, total training time: ~8 hours
 # you may change --accum-freq arg if using less GPUs
 torchrun --nproc_per_node=8 ./src/training/eeg/eeg_tri_main.py \
   --cache_dir /path_to/cache \
