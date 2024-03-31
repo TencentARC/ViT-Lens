@@ -22,6 +22,13 @@ We provide meta data for 3D point cloud datasets in [vitlens/src/open_clip/modal
 - SUN-RGBD: We use the SUN-RGBD (`test` split) for testing. Download the data from this [website](https://rgbd.cs.princeton.edu/) through this [link](https://rgbd.cs.princeton.edu/data/SUNRGBD.zip).
 - NYUv2: We use the NYUv2 (`test` split) for testing. Download the data from this [website](https://rgbd.cs.princeton.edu/) through this [link](https://rgbd.cs.princeton.edu/data/SUNRGBD.zip). Use the NYU data in the downloaded dataset.
 
+Note that we follow ImageBind to convert depth to disparity for model input. Please refer to [this piece of code](https://github.com/TencentARC/ViT-Lens/issues/9#issuecomment-1977117974). We also provide a copy of processed data [here](https://huggingface.co/datasets/leiwx52/ViT-Lens-dev/blob/main/SUNRGBD.zip).
+```
+** Disclaimer **
+
+Users of this data are required to adhere to the usage and distribution policies outlined by the original dataset providers/hosts. Any usage or distribution of this data should comply with the terms and conditions set forth by the original dataset providers/hosts. The creators of this open-source project shall not be held responsible for any misuse or violation of the original dataset providers'/hosts' terms and conditions. Users are advised to review and comply with the terms of use and licensing agreements provided by the original dataset providers/hosts before utilizing this data for any purpose. See https://rgbd.cs.princeton.edu/.
+```
+
 We provide meta data for RGBD/Depth datasets in [vitlens/src/open_clip/modal_depth/data](vitlens/src/open_clip/modal_depth/data).
 
 
