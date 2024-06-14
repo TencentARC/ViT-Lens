@@ -1,0 +1,3 @@
+[submodule "integration"]
+	path = integration
+	url = https://github.com/StanLei52/ViT-Lens-Integration
