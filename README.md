@@ -203,7 +203,7 @@ Please refer to [MODEL_ZOO.md](MODEL_ZOO.md) for details.
 ## 🎓 Citation
 If you find our work helps, please give us a star🌟 and consider citing:
 ```bib
-@InProceedings{Lei_2024_CVPR,
+@InProceedings{Lei_VitLens_CVPR_2024,
     author    = {Lei, Weixian and Ge, Yixiao and Yi, Kun and Zhang, Jianfeng and Gao, Difei and Sun, Dylan and Ge, Yuying and Shan, Ying and Shou, Mike Zheng},
     title     = {ViT-Lens: Towards Omni-modal Representations},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
